@@ -1,0 +1,25 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache and Compiles
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Files (Secret Keys)
+.env
+.env.local
+.env.*
+
+# Local Logs
+drd-inbox-raw/run.log
+*.log
+
+# Windows / OS files
+Thumbs.db
+db.db
+Desktop.ini
+.DS_Store
