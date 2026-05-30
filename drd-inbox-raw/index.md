@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [May 30, 2026](file:////home/user/drd/drd-inbox-raw/2026-05-30_digest.md)
+- **[Real Estate Development]** [NYC Developers File Plans for 21M SF of New Construction in Q1: REBNY](https://commercialobserver.com/2026/05/nyc-developers-building-construction-q1-rebny/) *(via commercialobserver.com)*
+- **[Artificial Intelligence]** [Anthropic Releases Claude Opus 4.8 with New 'Dynamic Workflow' Tool](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/) *(via techcrunch.com)*
+- **[Engineering Principles]** [1Q 2026 Cost Report: Tariffs Contributed to Price Hikes for Many Materials in 2025](https://www.enr.com/articles/62734-1q-2026-cost-report-tariffs-contributed-to-price-hikes-for-many-materials-in-2025) *(via enr.com)*
+
+
+
 ### 📅 [May 29, 2026](file:///C:\Users\goldonil\.projects\drd\drd-inbox-raw/2026-05-29_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (May 28, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Real Estate Development]** [Firms plan $175 million redevelopment of Lincoln Square Homes](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWU50cWlYNzZabnNQTWRiTHhJQ1BxenpqQ3V3dnd0cUtFRnp2aWMybzYtX0F5aU9FbUstc3BjWTRHWjNJVWFhRG5lSDVzTEVIWmc1YVpsdHFVRWFnQmNWazIzN2RiUnZESWhsSWNfUkdJZ1FIRC1wb1M1SEpGWVNCU3dNZzF6SG1vQkZtaXVyRlJ2NEpkX25WX3BOdTF3czBHeFQw?oc=5) *(via Times Union)*

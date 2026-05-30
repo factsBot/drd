@@ -68,6 +68,29 @@
           "source": "techxplore.com"
         }
       ]
+    },
+    {
+      "date": "2026-05-30",
+      "articles": [
+        {
+          "title": "NYC Developers File Plans for 21M SF of New Construction in Q1: REBNY",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/05/nyc-developers-building-construction-q1-rebny/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Anthropic Releases Claude Opus 4.8 with New 'Dynamic Workflow' Tool",
+          "category": "Artificial Intelligence",
+          "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+          "source": "techcrunch.com"
+        },
+        {
+          "title": "1Q 2026 Cost Report: Tariffs Contributed to Price Hikes for Many Materials in 2025",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/62734-1q-2026-cost-report-tariffs-contributed-to-price-hikes-for-many-materials-in-2025",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }
