@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [May 31, 2026](file:////home/user/drd/drd-inbox-raw/2026-05-31_digest.md)
+- **[Commercial Real Estate]** [Manhattan Office Leasing Roars Back in Q1 2026, Fueled by AI and Mega Deals](https://nyrej.com/manhattan-office-leasing-roars-back-in-q1-2026-fueled-by-ai-and-mega-deals-according-to-jll-office-leasing-research) *(via nyrej.com / JLL Research)*
+- **[Real Estate Development]** [NYC Developers File Plans for 21M SF of New Construction in Q1: REBNY](https://commercialobserver.com/2026/05/nyc-developers-building-construction-q1-rebny/) *(via commercialobserver.com / REBNY)*
+- **[Engineering Principles]** [Why AECOM Acquired Norwegian AI Startup Consigli—Visionary Deal or Part of the Hype Cycle?](https://www.enr.com/articles/62754-why-aecom-acquired-consigli-visionary-ai-acquistion-or-part-of-the-hype-cycle) *(via Engineering News-Record (ENR))*
+
+
+
 ### 📅 [May 30, 2026](file:////home/user/drd/drd-inbox-raw/2026-05-30_digest.md)
 - **[Real Estate Development]** [NYC Developers File Plans for 21M SF of New Construction in Q1: REBNY](https://commercialobserver.com/2026/05/nyc-developers-building-construction-q1-rebny/) *(via commercialobserver.com)*
 - **[Artificial Intelligence]** [Anthropic Releases Claude Opus 4.8 with New 'Dynamic Workflow' Tool](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/) *(via techcrunch.com)*
