@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 01, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-01_digest.md)
+- **[Real Estate Development]** [Mayor Mamdani Releases 'Block by Block: The Housing Plan for A New Era'](https://www.nyc.gov/mayors-office/news/2026/05/mayor-mamdani-releases--block-by-block--the-housing-plan-for-a-n) *(via nyc.gov)*
+- **[Commercial Real Estate]** [Law Firm Willkie Farr & Gallagher Expands to 368K SF at 787 Seventh Avenue](https://commercialobserver.com/2026/05/willkie-farr-gallagher-lease-expansion-787-seventh-avenue/) *(via commercialobserver.com)*
+- **[Engineering Principles]** [Trimble to Acquire Document Crunch to Add AI-Powered Risk Management and Document Compliance to Construction One](https://news.trimble.com/2026-04-02-Trimble-to-Acquire-Document-Crunch-to-Add-AI-Powered-Risk-Management-and-Document-Compliance-to-Trimble-Construction-One-Project-Delivery-Ecosystem) *(via trimble.com)*
+
+
+
 ### 📅 [May 31, 2026](file:////home/user/drd/drd-inbox-raw/2026-05-31_digest.md)
 - **[Commercial Real Estate]** [Manhattan Office Leasing Roars Back in Q1 2026, Fueled by AI and Mega Deals](https://nyrej.com/manhattan-office-leasing-roars-back-in-q1-2026-fueled-by-ai-and-mega-deals-according-to-jll-office-leasing-research) *(via nyrej.com / JLL Research)*
 - **[Real Estate Development]** [NYC Developers File Plans for 21M SF of New Construction in Q1: REBNY](https://commercialobserver.com/2026/05/nyc-developers-building-construction-q1-rebny/) *(via commercialobserver.com / REBNY)*

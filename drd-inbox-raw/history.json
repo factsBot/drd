@@ -114,6 +114,29 @@
           "source": "Engineering News-Record (ENR)"
         }
       ]
+    },
+    {
+      "date": "2026-06-01",
+      "articles": [
+        {
+          "title": "Mayor Mamdani Releases 'Block by Block: The Housing Plan for A New Era'",
+          "category": "Real Estate Development",
+          "link": "https://www.nyc.gov/mayors-office/news/2026/05/mayor-mamdani-releases--block-by-block--the-housing-plan-for-a-n",
+          "source": "nyc.gov"
+        },
+        {
+          "title": "Law Firm Willkie Farr & Gallagher Expands to 368K SF at 787 Seventh Avenue",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/05/willkie-farr-gallagher-lease-expansion-787-seventh-avenue/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Trimble to Acquire Document Crunch to Add AI-Powered Risk Management and Document Compliance to Construction One",
+          "category": "Engineering Principles",
+          "link": "https://news.trimble.com/2026-04-02-Trimble-to-Acquire-Document-Crunch-to-Add-AI-Powered-Risk-Management-and-Document-Compliance-to-Trimble-Construction-One-Project-Delivery-Ecosystem",
+          "source": "trimble.com"
+        }
+      ]
     }
   ]
 }
