@@ -137,6 +137,29 @@
           "source": "trimble.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-02",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 2, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Manhattan Office Market On Pace For Best Year Since 2000",
+          "category": "Commercial Real Estate",
+          "link": "https://therealdeal.com/new-york/2026/06/01/manhattan-office-market-on-pace-for-best-year-since-2000/",
+          "source": "therealdeal.com"
+        },
+        {
+          "title": "Advances in Modern Structural Engineering: From Materials to Building Structures",
+          "category": "Engineering Principles",
+          "link": "https://doi.org/10.3390/buildings16051080",
+          "source": "mdpi.com (Buildings journal)"
+        }
+      ]
     }
   ]
 }

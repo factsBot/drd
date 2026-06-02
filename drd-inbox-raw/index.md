@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 02, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-02_digest.md)
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 2, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Commercial Real Estate]** [Manhattan Office Market On Pace For Best Year Since 2000](https://therealdeal.com/new-york/2026/06/01/manhattan-office-market-on-pace-for-best-year-since-2000/) *(via therealdeal.com)*
+- **[Engineering Principles]** [Advances in Modern Structural Engineering: From Materials to Building Structures](https://doi.org/10.3390/buildings16051080) *(via mdpi.com (Buildings journal))*
+
+
+
 ### 📅 [June 01, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-01_digest.md)
 - **[Real Estate Development]** [Mayor Mamdani Releases 'Block by Block: The Housing Plan for A New Era'](https://www.nyc.gov/mayors-office/news/2026/05/mayor-mamdani-releases--block-by-block--the-housing-plan-for-a-n) *(via nyc.gov)*
 - **[Commercial Real Estate]** [Law Firm Willkie Farr & Gallagher Expands to 368K SF at 787 Seventh Avenue](https://commercialobserver.com/2026/05/willkie-farr-gallagher-lease-expansion-787-seventh-avenue/) *(via commercialobserver.com)*
