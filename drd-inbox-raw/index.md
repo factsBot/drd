@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 03, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-03_digest.md)
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 2, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Commercial Real Estate]** [AI Firms Are Flooding Manhattan Offices — NYC Leasing Up 152% as Vacancies Vanish](https://nyweekly.com/business/ai-firms-are-flooding-manhattan-offices-nyc-leasing-up-152-as-vacancies-vanish/) *(via nyweekly.com)*
+- **[Engineering Principles]** [Why 2026 Will Be a Critical Year for Physical AI in Construction](https://www.equipmentjournal.com/tech-news/why-2026-will-be-a-critical-year-for-physical-ai-in-construction/amp/) *(via equipmentjournal.com)*
+
+
+
 ### 📅 [May 29, 2026](file:///C:\Users\goldonil\.projects\drd\drd-inbox-raw/2026-05-29_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (May 28, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Real Estate Development]** [Firms plan $175 million redevelopment of Lincoln Square Homes](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWU50cWlYNzZabnNQTWRiTHhJQ1BxenpqQ3V3dnd0cUtFRnp2aWMybzYtX0F5aU9FbUstc3BjWTRHWjNJVWFhRG5lSDVzTEVIWmc1YVpsdHFVRWFnQmNWazIzN2RiUnZESWhsSWNfUkdJZ1FIRC1wb1M1SEpGWVNCU3dNZzF6SG1vQkZtaXVyRlJ2NEpkX25WX3BOdTF3czBHeFQw?oc=5) *(via Times Union)*

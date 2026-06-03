@@ -68,6 +68,29 @@
           "source": "techxplore.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-03",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 2, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "AI Firms Are Flooding Manhattan Offices — NYC Leasing Up 152% as Vacancies Vanish",
+          "category": "Commercial Real Estate",
+          "link": "https://nyweekly.com/business/ai-firms-are-flooding-manhattan-offices-nyc-leasing-up-152-as-vacancies-vanish/",
+          "source": "nyweekly.com"
+        },
+        {
+          "title": "Why 2026 Will Be a Critical Year for Physical AI in Construction",
+          "category": "Engineering Principles",
+          "link": "https://www.equipmentjournal.com/tech-news/why-2026-will-be-a-critical-year-for-physical-ai-in-construction/amp/",
+          "source": "equipmentjournal.com"
+        }
+      ]
     }
   ]
 }
