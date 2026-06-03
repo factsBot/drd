@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 03, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-03_digest.md)
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 2, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Commercial Real Estate]** [AI Firms Are Flooding Manhattan Offices — NYC Leasing Up 152% as Vacancies Vanish](https://nyweekly.com/business/ai-firms-are-flooding-manhattan-offices-nyc-leasing-up-152-as-vacancies-vanish/) *(via nyweekly.com)*
+- **[Engineering Principles]** [Why 2026 Will Be a Critical Year for Physical AI in Construction](https://www.equipmentjournal.com/tech-news/why-2026-will-be-a-critical-year-for-physical-ai-in-construction/amp/) *(via equipmentjournal.com)*
+
+
+
 ### 📅 [June 02, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-02_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 2, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Commercial Real Estate]** [Manhattan Office Market On Pace For Best Year Since 2000](https://therealdeal.com/new-york/2026/06/01/manhattan-office-market-on-pace-for-best-year-since-2000/) *(via therealdeal.com)*
