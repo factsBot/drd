@@ -183,6 +183,29 @@
           "source": "equipmentjournal.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-04",
+      "articles": [
+        {
+          "title": "Robotically Assembled Building Blocks Could Make Construction More Efficient and Sustainable",
+          "category": "Engineering Principles",
+          "link": "https://news.mit.edu/2026/robotically-assembled-building-blocks-makes-construction-more-efficient-and-sustainable-0428",
+          "source": "news.mit.edu"
+        },
+        {
+          "title": "Governor Hochul Announces Groundbreaking for $278 Million Affordable Development in Queens, Expanding Homeownership in Far Rockaway",
+          "category": "Real Estate Development",
+          "link": "https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-278-million-affordable-development-queens-expanding",
+          "source": "governor.ny.gov"
+        },
+        {
+          "title": "Data Centers Are Commercial Real Estate's Jewel for 2026: AI Demand Drives Record Backlogs and Capital Reallocation",
+          "category": "Commercial Real Estate",
+          "link": "https://www.datacenterknowledge.com/data-center-site-selection/with-all-eyes-on-ai-data-centers-are-commercial-real-estate-s-jewel-for-2026",
+          "source": "datacenterknowledge.com"
+        }
+      ]
     }
   ]
 }

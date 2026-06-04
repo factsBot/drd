@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 04, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-04_digest.md)
+- **[Engineering Principles]** [Robotically Assembled Building Blocks Could Make Construction More Efficient and Sustainable](https://news.mit.edu/2026/robotically-assembled-building-blocks-makes-construction-more-efficient-and-sustainable-0428) *(via news.mit.edu)*
+- **[Real Estate Development]** [Governor Hochul Announces Groundbreaking for $278 Million Affordable Development in Queens, Expanding Homeownership in Far Rockaway](https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-278-million-affordable-development-queens-expanding) *(via governor.ny.gov)*
+- **[Commercial Real Estate]** [Data Centers Are Commercial Real Estate's Jewel for 2026: AI Demand Drives Record Backlogs and Capital Reallocation](https://www.datacenterknowledge.com/data-center-site-selection/with-all-eyes-on-ai-data-centers-are-commercial-real-estate-s-jewel-for-2026) *(via datacenterknowledge.com)*
+
+
+
 ### 📅 [June 03, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-03_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 2, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Commercial Real Estate]** [AI Firms Are Flooding Manhattan Offices — NYC Leasing Up 152% as Vacancies Vanish](https://nyweekly.com/business/ai-firms-are-flooding-manhattan-offices-nyc-leasing-up-152-as-vacancies-vanish/) *(via nyweekly.com)*
