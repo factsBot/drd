@@ -206,6 +206,29 @@
           "source": "datacenterknowledge.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-05",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 2, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Pfizer HQ Office-to-Residential Conversion Progresses at 219-229 East 42nd Street, Midtown East",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/pfizer-hqs-residential-conversion-expansion-progresses-at-219-229-east-42nd-street-in-midtown-east-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "WPI Engineers Develop Carbon-Negative Enzymatic Structural Material (ESM) That Sequesters CO2",
+          "category": "Engineering Principles",
+          "link": "https://www.wpi.edu/news/carbon-negative-building-material-developed-worcester-polytechnic-institute-published-matter",
+          "source": "wpi.edu"
+        }
+      ]
     }
   ]
 }

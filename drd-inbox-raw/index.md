@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 05, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-05_digest.md)
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 2, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Real Estate Development]** [Pfizer HQ Office-to-Residential Conversion Progresses at 219-229 East 42nd Street, Midtown East](https://newyorkyimby.com/2026/06/pfizer-hqs-residential-conversion-expansion-progresses-at-219-229-east-42nd-street-in-midtown-east-manhattan.html) *(via newyorkyimby.com)*
+- **[Engineering Principles]** [WPI Engineers Develop Carbon-Negative Enzymatic Structural Material (ESM) That Sequesters CO2](https://www.wpi.edu/news/carbon-negative-building-material-developed-worcester-polytechnic-institute-published-matter) *(via wpi.edu)*
+
+
+
 ### 📅 [June 04, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-04_digest.md)
 - **[Engineering Principles]** [Robotically Assembled Building Blocks Could Make Construction More Efficient and Sustainable](https://news.mit.edu/2026/robotically-assembled-building-blocks-makes-construction-more-efficient-and-sustainable-0428) *(via news.mit.edu)*
 - **[Real Estate Development]** [Governor Hochul Announces Groundbreaking for $278 Million Affordable Development in Queens, Expanding Homeownership in Far Rockaway](https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-278-million-affordable-development-queens-expanding) *(via governor.ny.gov)*
