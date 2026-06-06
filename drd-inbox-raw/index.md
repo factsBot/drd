@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 06, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-06_digest.md)
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 5, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Real Estate Development]** [The Data Drop: In a pricey world, NYC's builders pivot to redevelopments](https://therealdeal.com/national/2026/06/05/nyc-builders-pivot-to-redevelopments-amid-high-costs/) *(via therealdeal.com)*
+- **[Commercial Real Estate]** [Banks Get Back Into Commercial Real Estate Lending](https://therealdeal.com/new-york/2026/05/29/banks-get-back-into-commercial-real-estate-lending/) *(via therealdeal.com)*
+
+
+
 ### 📅 [June 05, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-05_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 2, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Real Estate Development]** [Pfizer HQ Office-to-Residential Conversion Progresses at 219-229 East 42nd Street, Midtown East](https://newyorkyimby.com/2026/06/pfizer-hqs-residential-conversion-expansion-progresses-at-219-229-east-42nd-street-in-midtown-east-manhattan.html) *(via newyorkyimby.com)*

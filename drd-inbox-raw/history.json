@@ -229,6 +229,29 @@
           "source": "wpi.edu"
         }
       ]
+    },
+    {
+      "date": "2026-06-06",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 5, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "The Data Drop: In a pricey world, NYC's builders pivot to redevelopments",
+          "category": "Real Estate Development",
+          "link": "https://therealdeal.com/national/2026/06/05/nyc-builders-pivot-to-redevelopments-amid-high-costs/",
+          "source": "therealdeal.com"
+        },
+        {
+          "title": "Banks Get Back Into Commercial Real Estate Lending",
+          "category": "Commercial Real Estate",
+          "link": "https://therealdeal.com/new-york/2026/05/29/banks-get-back-into-commercial-real-estate-lending/",
+          "source": "therealdeal.com"
+        }
+      ]
     }
   ]
 }
