@@ -252,6 +252,29 @@
           "source": "therealdeal.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-07",
+      "articles": [
+        {
+          "title": "New York's 2026 Enacted Budget Advances SEQRA Reforms, Promoting Housing Construction and Streamlining Environmental Review Timelines",
+          "category": "Real Estate Development",
+          "link": "https://natlawreview.com/article/new-yorks-2026-enacted-budget-advances-seqra-reforms-promoting-housing-construction",
+          "source": "natlawreview.com"
+        },
+        {
+          "title": "NYC Greenlights Largest Rezoning Effort in Two Decades",
+          "category": "Commercial Real Estate",
+          "link": "https://www.credaily.com/newsletters/nyc-greenlights-largest-rezoning-effort-in-two-decades/",
+          "source": "credaily.com"
+        },
+        {
+          "title": "Construction AI Adoption 2026: Usage Doubles as Firms Embrace Smart Tools",
+          "category": "Artificial Intelligence",
+          "link": "https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites",
+          "source": "constructionowners.com"
+        }
+      ]
     }
   ]
 }

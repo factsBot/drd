@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 07, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-07_digest.md)
+- **[Real Estate Development]** [New York's 2026 Enacted Budget Advances SEQRA Reforms, Promoting Housing Construction and Streamlining Environmental Review Timelines](https://natlawreview.com/article/new-yorks-2026-enacted-budget-advances-seqra-reforms-promoting-housing-construction) *(via natlawreview.com)*
+- **[Commercial Real Estate]** [NYC Greenlights Largest Rezoning Effort in Two Decades](https://www.credaily.com/newsletters/nyc-greenlights-largest-rezoning-effort-in-two-decades/) *(via credaily.com)*
+- **[Artificial Intelligence]** [Construction AI Adoption 2026: Usage Doubles as Firms Embrace Smart Tools](https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites) *(via constructionowners.com)*
+
+
+
 ### 📅 [June 06, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-06_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 5, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Real Estate Development]** [The Data Drop: In a pricey world, NYC's builders pivot to redevelopments](https://therealdeal.com/national/2026/06/05/nyc-builders-pivot-to-redevelopments-amid-high-costs/) *(via therealdeal.com)*
