@@ -275,6 +275,29 @@
           "source": "constructionowners.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-08",
+      "articles": [
+        {
+          "title": "More Housing, No Gentrification: How Rezoning Gave East New York a New Start",
+          "category": "Real Estate Development",
+          "link": "https://www.thecityreporter.nyc/2026/06/02/affordable-housing-east-new-york-zoning-brooklyn/",
+          "source": "The City Reporter (NYC News)"
+        },
+        {
+          "title": "Gravis Robotics Launches Gravis Copilot at CONEXPO 2026: First Commercially Available Autonomous Excavator Platform Enters US Market",
+          "category": "Engineering Principles",
+          "link": "https://www.equipmentjournal.com/tech-news/gravis-robotics-brings-physical-ai-to-earthmoving/",
+          "source": "Equipment Journal / Robotics & Automation News"
+        },
+        {
+          "title": "Commercial Real Estate Lending Activity Reaches Five-Year High: CBRE Lending Momentum Index Climbs to 1.5",
+          "category": "Commercial Real Estate",
+          "link": "https://www.cbre.com/press-releases/commercial-real-estate-lending-activity-reaches-five-year-high-cbre",
+          "source": "CBRE"
+        }
+      ]
     }
   ]
 }

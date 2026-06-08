@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 08, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-08_digest.md)
+- **[Real Estate Development]** [More Housing, No Gentrification: How Rezoning Gave East New York a New Start](https://www.thecityreporter.nyc/2026/06/02/affordable-housing-east-new-york-zoning-brooklyn/) *(via The City Reporter (NYC News))*
+- **[Engineering Principles]** [Gravis Robotics Launches Gravis Copilot at CONEXPO 2026: First Commercially Available Autonomous Excavator Platform Enters US Market](https://www.equipmentjournal.com/tech-news/gravis-robotics-brings-physical-ai-to-earthmoving/) *(via Equipment Journal / Robotics & Automation News)*
+- **[Commercial Real Estate]** [Commercial Real Estate Lending Activity Reaches Five-Year High: CBRE Lending Momentum Index Climbs to 1.5](https://www.cbre.com/press-releases/commercial-real-estate-lending-activity-reaches-five-year-high-cbre) *(via CBRE)*
+
+
+
 ### 📅 [June 07, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-07_digest.md)
 - **[Real Estate Development]** [New York's 2026 Enacted Budget Advances SEQRA Reforms, Promoting Housing Construction and Streamlining Environmental Review Timelines](https://natlawreview.com/article/new-yorks-2026-enacted-budget-advances-seqra-reforms-promoting-housing-construction) *(via natlawreview.com)*
 - **[Commercial Real Estate]** [NYC Greenlights Largest Rezoning Effort in Two Decades](https://www.credaily.com/newsletters/nyc-greenlights-largest-rezoning-effort-in-two-decades/) *(via credaily.com)*
