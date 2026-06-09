@@ -298,6 +298,29 @@
           "source": "CBRE"
         }
       ]
+    },
+    {
+      "date": "2026-06-09",
+      "articles": [
+        {
+          "title": "NYC On The Verge Of A Construction Boom As Permit Filings Spike",
+          "category": "Real Estate Development",
+          "link": "https://www.bisnow.com/new-york/news/construction-development/nyc-construction-housing-q1-2026-building-permits-rebny-134705",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "Manhattan Office Leasing Roars Back in Q1 2026, Fueled by AI and Mega-Deals",
+          "category": "Commercial Real Estate",
+          "link": "https://nyrej.com/manhattan-office-leasing-roars-back-in-q1-2026-fueled-by-ai-and-mega-deals-according-to-jll-office-leasing-research",
+          "source": "nyrej.com / JLL Research"
+        },
+        {
+          "title": "2026 Engineering and Construction Industry Outlook",
+          "category": "Engineering Principles",
+          "link": "https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html",
+          "source": "Deloitte Insights"
+        }
+      ]
     }
   ]
 }

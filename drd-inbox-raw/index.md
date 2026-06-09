@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 09, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-09_digest.md)
+- **[Real Estate Development]** [NYC On The Verge Of A Construction Boom As Permit Filings Spike](https://www.bisnow.com/new-york/news/construction-development/nyc-construction-housing-q1-2026-building-permits-rebny-134705) *(via bisnow.com)*
+- **[Commercial Real Estate]** [Manhattan Office Leasing Roars Back in Q1 2026, Fueled by AI and Mega-Deals](https://nyrej.com/manhattan-office-leasing-roars-back-in-q1-2026-fueled-by-ai-and-mega-deals-according-to-jll-office-leasing-research) *(via nyrej.com / JLL Research)*
+- **[Engineering Principles]** [2026 Engineering and Construction Industry Outlook](https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html) *(via Deloitte Insights)*
+
+
+
 ### 📅 [June 08, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-08_digest.md)
 - **[Real Estate Development]** [More Housing, No Gentrification: How Rezoning Gave East New York a New Start](https://www.thecityreporter.nyc/2026/06/02/affordable-housing-east-new-york-zoning-brooklyn/) *(via The City Reporter (NYC News))*
 - **[Engineering Principles]** [Gravis Robotics Launches Gravis Copilot at CONEXPO 2026: First Commercially Available Autonomous Excavator Platform Enters US Market](https://www.equipmentjournal.com/tech-news/gravis-robotics-brings-physical-ai-to-earthmoving/) *(via Equipment Journal / Robotics & Automation News)*
