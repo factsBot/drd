@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 10, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-10_digest.md)
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 9, 2026) — Fable 5, Mythos 5, and Managed Agents Scheduled Deployments](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Real Estate Development]** [NYC On The Verge Of A Construction Boom As Permit Filings Spike 74% Year-Over-Year In Q1 2026](https://www.bisnow.com/new-york/news/construction-development/nyc-construction-housing-q1-2026-building-permits-rebny-134705) *(via bisnow.com)*
+- **[Engineering Principles]** [Advances in Modern Structural Engineering: From Materials to Building Structures (Peer-Reviewed, 2026)](https://doi.org/10.3390/buildings16051080) *(via buildings (MDPI))*
+
+
+
 ### 📅 [June 09, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-09_digest.md)
 - **[Real Estate Development]** [NYC On The Verge Of A Construction Boom As Permit Filings Spike](https://www.bisnow.com/new-york/news/construction-development/nyc-construction-housing-q1-2026-building-permits-rebny-134705) *(via bisnow.com)*
 - **[Commercial Real Estate]** [Manhattan Office Leasing Roars Back in Q1 2026, Fueled by AI and Mega-Deals](https://nyrej.com/manhattan-office-leasing-roars-back-in-q1-2026-fueled-by-ai-and-mega-deals-according-to-jll-office-leasing-research) *(via nyrej.com / JLL Research)*
