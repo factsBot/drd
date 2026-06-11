@@ -344,6 +344,29 @@
           "source": "buildings (MDPI)"
         }
       ]
+    },
+    {
+      "date": "2026-06-11",
+      "articles": [
+        {
+          "title": "SL Green and Mori Building Co., Ltd. Form Joint Venture for New Development at 346 Madison Avenue",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/05/sl-green-346-madison-mori-new-tower/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Enterprise Software Leaders Build AI Agents With NVIDIA — NemoClaw Framework and Agent Toolkit Launch at GTC Taipei",
+          "category": "Artificial Intelligence",
+          "link": "https://nvidianews.nvidia.com/news/enterprise-software-leaders-build-ai-agents-with-nvidia",
+          "source": "nvidianews.nvidia.com"
+        },
+        {
+          "title": "Meta Makes $115M Bet on Construction Craft Labor Pipeline for AI Data Centers",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63124-meta-makes-115m-bet-on-construction-craft-labor-pipeline-for-ai-data-centers",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }

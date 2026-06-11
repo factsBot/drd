@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 11, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-11_digest.md)
+- **[Commercial Real Estate]** [SL Green and Mori Building Co., Ltd. Form Joint Venture for New Development at 346 Madison Avenue](https://commercialobserver.com/2026/05/sl-green-346-madison-mori-new-tower/) *(via commercialobserver.com)*
+- **[Artificial Intelligence]** [Enterprise Software Leaders Build AI Agents With NVIDIA — NemoClaw Framework and Agent Toolkit Launch at GTC Taipei](https://nvidianews.nvidia.com/news/enterprise-software-leaders-build-ai-agents-with-nvidia) *(via nvidianews.nvidia.com)*
+- **[Engineering Principles]** [Meta Makes $115M Bet on Construction Craft Labor Pipeline for AI Data Centers](https://www.enr.com/articles/63124-meta-makes-115m-bet-on-construction-craft-labor-pipeline-for-ai-data-centers) *(via enr.com)*
+
+
+
 ### 📅 [June 10, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-10_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 9, 2026) — Fable 5, Mythos 5, and Managed Agents Scheduled Deployments](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Real Estate Development]** [NYC On The Verge Of A Construction Boom As Permit Filings Spike 74% Year-Over-Year In Q1 2026](https://www.bisnow.com/new-york/news/construction-development/nyc-construction-housing-q1-2026-building-permits-rebny-134705) *(via bisnow.com)*
