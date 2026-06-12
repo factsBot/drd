@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 12, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-12_digest.md)
+- **[Commercial Real Estate]** [Olmstead Buys 19 West 44th Street From Savanna at a 45% Haircut](https://commercialobserver.com/2026/06/olmstead-19-west-44th-street-savanna-manhattan-office-building/) *(via Commercial Observer)*
+- **[Real Estate Development]** [How Big Upzonings Affect Housing Supply: Urban Institute Study Quantifies 4,000 Additional Units in NYC, 4,000 Extra Permits/Year in Philadelphia](https://www.urban.org/research/publication/how-big-upzonings-affect-housing-supply) *(via Urban Institute / Smart Cities Dive)*
+- **[Engineering Principles]** [Buildroid AI Brings Simulation-First Bricklaying Robots to US Jobsites: 6× Masonry Productivity, 80% Automation via Nvidia Omniverse Digital Twins](https://www.enr.com/articles/62176-robotics-start-up-buildroid-ai-to-bring-model-based-automated-bricklaying-to-us-jobsites) *(via Engineering News-Record (ENR))*
+
+
+
 ### 📅 [June 11, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-11_digest.md)
 - **[Commercial Real Estate]** [SL Green and Mori Building Co., Ltd. Form Joint Venture for New Development at 346 Madison Avenue](https://commercialobserver.com/2026/05/sl-green-346-madison-mori-new-tower/) *(via commercialobserver.com)*
 - **[Artificial Intelligence]** [Enterprise Software Leaders Build AI Agents With NVIDIA — NemoClaw Framework and Agent Toolkit Launch at GTC Taipei](https://nvidianews.nvidia.com/news/enterprise-software-leaders-build-ai-agents-with-nvidia) *(via nvidianews.nvidia.com)*

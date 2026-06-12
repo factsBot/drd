@@ -367,6 +367,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-12",
+      "articles": [
+        {
+          "title": "Olmstead Buys 19 West 44th Street From Savanna at a 45% Haircut",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/olmstead-19-west-44th-street-savanna-manhattan-office-building/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "How Big Upzonings Affect Housing Supply: Urban Institute Study Quantifies 4,000 Additional Units in NYC, 4,000 Extra Permits/Year in Philadelphia",
+          "category": "Real Estate Development",
+          "link": "https://www.urban.org/research/publication/how-big-upzonings-affect-housing-supply",
+          "source": "Urban Institute / Smart Cities Dive"
+        },
+        {
+          "title": "Buildroid AI Brings Simulation-First Bricklaying Robots to US Jobsites: 6× Masonry Productivity, 80% Automation via Nvidia Omniverse Digital Twins",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/62176-robotics-start-up-buildroid-ai-to-bring-model-based-automated-bricklaying-to-us-jobsites",
+          "source": "Engineering News-Record (ENR)"
+        }
+      ]
     }
   ]
 }
