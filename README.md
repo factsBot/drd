@@ -1,5 +1,12 @@
 # Daily Industry News Digest 🚀
 
+> **READ THIS FIRST (2026-06-12): the digest archive lives on the `claude/daily-digest` branch, NOT here.**
+> Digests are generated daily by the cloud Claude Code routine `drd-inbox-create` and pushed to
+> `claude/daily-digest` — that branch is the canonical, complete archive. This `main` branch is a stale
+> initial seed (2026-05-27) kept only as the default branch. All consumers (the DYTS server's
+> `dyts-drd-pull` timer, `drd_github.py`) read `claude/daily-digest`. Much of the README below describes
+> the retired local/Antigravity generation path and is historical.
+
 A highly customized daily intelligence aggregator that tracks, filters, and analyzes news from **Commercial Real Estate**, **Real Estate Development**, **Artificial Intelligence**, and **Engineering Principles**.
 
 This project has been modernized to utilize the latest **Google GenAI SDK** and patched to ensure robust local scraping across restricted corporate environments (with global SSL unverified context overrides).
