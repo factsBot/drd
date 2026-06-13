@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 13, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-13_digest.md)
+- **[Commercial Real Estate]** [Forget Tech — Law Firms Are Driving Manhattan Office Leasing](https://commercialobserver.com/2026/06/law-firms-manhattan-office-leasing/) *(via Commercial Observer)*
+- **[Artificial Intelligence]** [Construction Platforms Are Already Fighting Over Data to Train AI Agents](https://www.enr.com/articles/63122-construction-platforms-are-already-fighting-over-data-to-train-ai-agents) *(via Engineering News-Record)*
+- **[Engineering Principles]** [Construction Materials Prices Jump 2.6% in May, Up Nearly 10% Year Over Year](https://www.enr.com/articles/63148-construction-materials-prices-jump-26-in-may-up-nearly-10-year-over-year) *(via Engineering News-Record)*
+
+
+
 ### 📅 [June 12, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-12_digest.md)
 - **[Commercial Real Estate]** [Olmstead Buys 19 West 44th Street From Savanna at a 45% Haircut](https://commercialobserver.com/2026/06/olmstead-19-west-44th-street-savanna-manhattan-office-building/) *(via Commercial Observer)*
 - **[Real Estate Development]** [How Big Upzonings Affect Housing Supply: Urban Institute Study Quantifies 4,000 Additional Units in NYC, 4,000 Extra Permits/Year in Philadelphia](https://www.urban.org/research/publication/how-big-upzonings-affect-housing-supply) *(via Urban Institute / Smart Cities Dive)*

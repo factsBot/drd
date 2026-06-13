@@ -390,6 +390,29 @@
           "source": "Engineering News-Record (ENR)"
         }
       ]
+    },
+    {
+      "date": "2026-06-13",
+      "articles": [
+        {
+          "title": "Forget Tech — Law Firms Are Driving Manhattan Office Leasing",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/law-firms-manhattan-office-leasing/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "Construction Platforms Are Already Fighting Over Data to Train AI Agents",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63122-construction-platforms-are-already-fighting-over-data-to-train-ai-agents",
+          "source": "Engineering News-Record"
+        },
+        {
+          "title": "Construction Materials Prices Jump 2.6% in May, Up Nearly 10% Year Over Year",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63148-construction-materials-prices-jump-26-in-may-up-nearly-10-year-over-year",
+          "source": "Engineering News-Record"
+        }
+      ]
     }
   ]
 }
