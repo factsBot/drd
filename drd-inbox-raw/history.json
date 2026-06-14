@@ -413,6 +413,29 @@
           "source": "Engineering News-Record"
         }
       ]
+    },
+    {
+      "date": "2026-06-14",
+      "articles": [
+        {
+          "title": "421‑a(16) Projects Without LOI Must Complete by June 15, 2026",
+          "category": "Real Estate Development",
+          "link": "https://bbgllp.com/new/421a-16-completion-deadline/",
+          "source": "BBG (Bisceglie + Burns Group)"
+        },
+        {
+          "title": "Document Crunch Launches Construction’s First Project-Level AI Risk Intelligence Platform",
+          "category": "Artificial Intelligence",
+          "link": "https://news.trimble.com/2026-06-09-Document-Crunch-Launches-Constructions-First-Project-Level-AI-Risk-Intelligence-Platform",
+          "source": "Trimble (news.trimble.com)"
+        },
+        {
+          "title": "5 Construction Innovations to Watch in 2026: 3D Printing, Biochar Concrete, and Net-Zero Materials at Commercial Scale",
+          "category": "Engineering Principles",
+          "link": "https://www.holcim.com/who-we-are/our-stories/construction-innovations-in-2026",
+          "source": "Holcim"
+        }
+      ]
     }
   ]
 }

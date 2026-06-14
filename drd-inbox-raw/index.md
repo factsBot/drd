@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 14, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-14_digest.md)
+- **[Real Estate Development]** [421‑a(16) Projects Without LOI Must Complete by June 15, 2026](https://bbgllp.com/new/421a-16-completion-deadline/) *(via BBG (Bisceglie + Burns Group))*
+- **[Artificial Intelligence]** [Document Crunch Launches Construction’s First Project-Level AI Risk Intelligence Platform](https://news.trimble.com/2026-06-09-Document-Crunch-Launches-Constructions-First-Project-Level-AI-Risk-Intelligence-Platform) *(via Trimble (news.trimble.com))*
+- **[Engineering Principles]** [5 Construction Innovations to Watch in 2026: 3D Printing, Biochar Concrete, and Net-Zero Materials at Commercial Scale](https://www.holcim.com/who-we-are/our-stories/construction-innovations-in-2026) *(via Holcim)*
+
+
+
 ### 📅 [June 13, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-13_digest.md)
 - **[Commercial Real Estate]** [Forget Tech — Law Firms Are Driving Manhattan Office Leasing](https://commercialobserver.com/2026/06/law-firms-manhattan-office-leasing/) *(via Commercial Observer)*
 - **[Artificial Intelligence]** [Construction Platforms Are Already Fighting Over Data to Train AI Agents](https://www.enr.com/articles/63122-construction-platforms-are-already-fighting-over-data-to-train-ai-agents) *(via Engineering News-Record)*
