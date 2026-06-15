@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 15, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-15_digest.md)
+- **[Commercial Real Estate]** [There's Been a Big Shift in the Commercial Real Estate Capital Markets](https://commercialobserver.com/2026/06/shift-commercial-real-estate-capital-markets-credit/) *(via Commercial Observer)*
+- **[Engineering Principles]** [Bechtel Award Advances Micron $100B New York Megafab Toward First Construction](https://www.enr.com/articles/63140-bechtel-award-advances-micron-100b-new-york-megafab-toward-first-construction) *(via Engineering News-Record (ENR))*
+- **[Artificial Intelligence]** [Procore Turns the Common Data Environment Into a Launchpad for Agentic AI](https://aecmag.com/collaboration/procore-cde-lays-foundation-for-agentic-ai/) *(via AEC Magazine)*
+
+
+
 ### 📅 [June 14, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-14_digest.md)
 - **[Real Estate Development]** [421‑a(16) Projects Without LOI Must Complete by June 15, 2026](https://bbgllp.com/new/421a-16-completion-deadline/) *(via BBG (Bisceglie + Burns Group))*
 - **[Artificial Intelligence]** [Document Crunch Launches Construction’s First Project-Level AI Risk Intelligence Platform](https://news.trimble.com/2026-06-09-Document-Crunch-Launches-Constructions-First-Project-Level-AI-Risk-Intelligence-Platform) *(via Trimble (news.trimble.com))*

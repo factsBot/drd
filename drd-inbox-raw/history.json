@@ -436,6 +436,29 @@
           "source": "Holcim"
         }
       ]
+    },
+    {
+      "date": "2026-06-15",
+      "articles": [
+        {
+          "title": "There's Been a Big Shift in the Commercial Real Estate Capital Markets",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/shift-commercial-real-estate-capital-markets-credit/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "Bechtel Award Advances Micron $100B New York Megafab Toward First Construction",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63140-bechtel-award-advances-micron-100b-new-york-megafab-toward-first-construction",
+          "source": "Engineering News-Record (ENR)"
+        },
+        {
+          "title": "Procore Turns the Common Data Environment Into a Launchpad for Agentic AI",
+          "category": "Artificial Intelligence",
+          "link": "https://aecmag.com/collaboration/procore-cde-lays-foundation-for-agentic-ai/",
+          "source": "AEC Magazine"
+        }
+      ]
     }
   ]
 }
