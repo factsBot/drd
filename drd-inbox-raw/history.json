@@ -459,6 +459,29 @@
           "source": "AEC Magazine"
         }
       ]
+    },
+    {
+      "date": "2026-06-16",
+      "articles": [
+        {
+          "title": "Ongoing Office-To-Residential Conversions to Bring Nearly 3,000 New Units to Manhattan",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/ongoing-office-to-residential-conversions-to-bring-nearly-3000-new-units-to-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "North America's First Timber Gridshell Debuts in Georgia Ahead of World Cup",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63044-north-americas-first-timber-gridshell-debuts-in-georgia-ahead-of-world-cup",
+          "source": "enr.com"
+        },
+        {
+          "title": "Data Center Investment in 2026: AI Demand, Power Constraints, and Private Equity Trends",
+          "category": "Commercial Real Estate",
+          "link": "https://www.ropesgray.com/en/insights/viewpoints/102mvfl/data-center-investment-in-2026-ai-demand-power-constraints-and-private-equity",
+          "source": "ropesgray.com"
+        }
+      ]
     }
   ]
 }

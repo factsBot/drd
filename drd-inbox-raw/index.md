@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 16, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-16_digest.md)
+- **[Real Estate Development]** [Ongoing Office-To-Residential Conversions to Bring Nearly 3,000 New Units to Manhattan](https://newyorkyimby.com/2026/06/ongoing-office-to-residential-conversions-to-bring-nearly-3000-new-units-to-manhattan.html) *(via newyorkyimby.com)*
+- **[Engineering Principles]** [North America's First Timber Gridshell Debuts in Georgia Ahead of World Cup](https://www.enr.com/articles/63044-north-americas-first-timber-gridshell-debuts-in-georgia-ahead-of-world-cup) *(via enr.com)*
+- **[Commercial Real Estate]** [Data Center Investment in 2026: AI Demand, Power Constraints, and Private Equity Trends](https://www.ropesgray.com/en/insights/viewpoints/102mvfl/data-center-investment-in-2026-ai-demand-power-constraints-and-private-equity) *(via ropesgray.com)*
+
+
+
 ### 📅 [June 15, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-15_digest.md)
 - **[Commercial Real Estate]** [There's Been a Big Shift in the Commercial Real Estate Capital Markets](https://commercialobserver.com/2026/06/shift-commercial-real-estate-capital-markets-credit/) *(via Commercial Observer)*
 - **[Engineering Principles]** [Bechtel Award Advances Micron $100B New York Megafab Toward First Construction](https://www.enr.com/articles/63140-bechtel-award-advances-micron-100b-new-york-megafab-toward-first-construction) *(via Engineering News-Record (ENR))*
