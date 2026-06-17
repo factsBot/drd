@@ -482,6 +482,29 @@
           "source": "ropesgray.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-17",
+      "articles": [
+        {
+          "title": "River Avenue Apartments II Breaks Ground in The Bronx: $225M, 292-Unit Affordable & Supportive Housing Development",
+          "category": "Real Estate Development",
+          "link": "https://hcr.ny.gov/news/governor-hochul-announces-groundbreaking-225m-affordable-housing-development-bronx",
+          "source": "NYS Homes and Community Renewal (HCR)"
+        },
+        {
+          "title": "NYC Residential Rental Market Report: May 2026 — Manhattan Median Rent Hits All-Time High of $5,125",
+          "category": "Commercial Real Estate",
+          "link": "https://inhabit.corcoran.com/nyc-residential-rental-market-report-may-2026/",
+          "source": "Corcoran Group / Inhabit"
+        },
+        {
+          "title": "Newforma Launches Vojo AI Assistant and Open Ecosystem Strategy at Newforma World 2026",
+          "category": "Artificial Intelligence",
+          "link": "https://www.prnewswire.com/news-releases/newforma-announces-ai-powered-innovations-and-open-ecosystem-strategy-at-newforma-world-2026-302765799.html",
+          "source": "Newforma / PR Newswire"
+        }
+      ]
     }
   ]
 }

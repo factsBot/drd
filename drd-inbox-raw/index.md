@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 17, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-17_digest.md)
+- **[Real Estate Development]** [River Avenue Apartments II Breaks Ground in The Bronx: $225M, 292-Unit Affordable & Supportive Housing Development](https://hcr.ny.gov/news/governor-hochul-announces-groundbreaking-225m-affordable-housing-development-bronx) *(via NYS Homes and Community Renewal (HCR))*
+- **[Commercial Real Estate]** [NYC Residential Rental Market Report: May 2026 — Manhattan Median Rent Hits All-Time High of $5,125](https://inhabit.corcoran.com/nyc-residential-rental-market-report-may-2026/) *(via Corcoran Group / Inhabit)*
+- **[Artificial Intelligence]** [Newforma Launches Vojo AI Assistant and Open Ecosystem Strategy at Newforma World 2026](https://www.prnewswire.com/news-releases/newforma-announces-ai-powered-innovations-and-open-ecosystem-strategy-at-newforma-world-2026-302765799.html) *(via Newforma / PR Newswire)*
+
+
+
 ### 📅 [June 16, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-16_digest.md)
 - **[Real Estate Development]** [Ongoing Office-To-Residential Conversions to Bring Nearly 3,000 New Units to Manhattan](https://newyorkyimby.com/2026/06/ongoing-office-to-residential-conversions-to-bring-nearly-3000-new-units-to-manhattan.html) *(via newyorkyimby.com)*
 - **[Engineering Principles]** [North America's First Timber Gridshell Debuts in Georgia Ahead of World Cup](https://www.enr.com/articles/63044-north-americas-first-timber-gridshell-debuts-in-georgia-ahead-of-world-cup) *(via enr.com)*
