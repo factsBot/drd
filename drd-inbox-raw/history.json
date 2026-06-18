@@ -505,6 +505,29 @@
           "source": "Newforma / PR Newswire"
         }
       ]
+    },
+    {
+      "date": "2026-06-18",
+      "articles": [
+        {
+          "title": "LPC Approves Revised Plans for 420-Foot Mixed-Use Tower at 188 Duffield Street in Downtown Brooklyn",
+          "category": "Real Estate Development",
+          "link": "https://brooklyneagle.com/395507/lpc-approves-revised-plan-for-420-foot-tower/",
+          "source": "brooklyneagle.com"
+        },
+        {
+          "title": "2Q 2026 Cost Report: Construction Exec Confidence Unchanged Despite Iran Conflict",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63183-2q-2026-cost-report-construction-exec-confidence-unchanged-despite-iran-conflict",
+          "source": "enr.com"
+        },
+        {
+          "title": "Claude API & Platform Release Notes (June 15, 2026): Claude Sonnet 4 and Opus 4 Retired — Hard Migration to 4.6/4.8",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        }
+      ]
     }
   ]
 }
