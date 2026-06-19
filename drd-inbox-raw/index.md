@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 19, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-19_digest.md)
+- **[Commercial Real Estate]** [BXP Executes 150,000 Square Foot Lease with McDermott Will & Schulte at 343 Madison Avenue](https://www.businesswire.com/news/home/20260616939299/en/BXP-Executes-150000-Square-Foot-Lease-with-McDermott-Will-Schulte-at-343-Madison-Avenue) *(via businesswire.com)*
+- **[Real Estate Development]** [Hoboken Connect Mixed-Use Development Takes Shape: Hudson Place Public Plaza Opens as First Phase of Transit-Hub Redevelopment](https://newyorkyimby.com/2026/06/hoboken-connect-mixed-use-development-takes-shape-in-hoboken-new-jersey.html) *(via newyorkyimby.com)*
+- **[Artificial Intelligence]** [Y Combinator's 2026 Real Estate and Construction Cohort Bets Big on AI Agents and Construction Intelligence](https://www.marketscale.com/industries/engineering-and-construction/y-combinators-2026-real-estate-and-construction-cohort-bets-big-on-ai-agents-and-construction-intelligence) *(via marketscale.com)*
+
+
+
 ### 📅 [June 18, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-18_digest.md)
 - **[Real Estate Development]** [LPC Approves Revised Plans for 420-Foot Mixed-Use Tower at 188 Duffield Street in Downtown Brooklyn](https://brooklyneagle.com/395507/lpc-approves-revised-plan-for-420-foot-tower/) *(via brooklyneagle.com)*
 - **[Engineering Principles]** [2Q 2026 Cost Report: Construction Exec Confidence Unchanged Despite Iran Conflict](https://www.enr.com/articles/63183-2q-2026-cost-report-construction-exec-confidence-unchanged-despite-iran-conflict) *(via enr.com)*

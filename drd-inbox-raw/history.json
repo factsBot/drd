@@ -528,6 +528,29 @@
           "source": "anthropic.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-19",
+      "articles": [
+        {
+          "title": "BXP Executes 150,000 Square Foot Lease with McDermott Will & Schulte at 343 Madison Avenue",
+          "category": "Commercial Real Estate",
+          "link": "https://www.businesswire.com/news/home/20260616939299/en/BXP-Executes-150000-Square-Foot-Lease-with-McDermott-Will-Schulte-at-343-Madison-Avenue",
+          "source": "businesswire.com"
+        },
+        {
+          "title": "Hoboken Connect Mixed-Use Development Takes Shape: Hudson Place Public Plaza Opens as First Phase of Transit-Hub Redevelopment",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/hoboken-connect-mixed-use-development-takes-shape-in-hoboken-new-jersey.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Y Combinator's 2026 Real Estate and Construction Cohort Bets Big on AI Agents and Construction Intelligence",
+          "category": "Artificial Intelligence",
+          "link": "https://www.marketscale.com/industries/engineering-and-construction/y-combinators-2026-real-estate-and-construction-cohort-bets-big-on-ai-agents-and-construction-intelligence",
+          "source": "marketscale.com"
+        }
+      ]
     }
   ]
 }
