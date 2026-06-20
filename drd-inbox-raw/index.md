@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 20, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-20_digest.md)
+- **[Commercial Real Estate]** [Real Estate: Market Pulse (June 2026)](https://www.seyfarth.com/news-insights/real-estate-market-pulse-june-2026.html) *(via seyfarth.com)*
+- **[Real Estate Development]** [New Jersey Housing Boom 2026: Central Jersey Rail Towns Lead Multifamily Growth](https://www.constructionowners.com/news/central-jersey-rail-towns-drive-new-jersey-housing-boom-as-multifamily-development-surges) *(via constructionowners.com)*
+- **[Engineering Principles]** [All-Electric Buildings Act Takes Effect Across NY in 2026: Key Compliance Rules for Developers and Engineers](https://www.urbangreencouncil.org/decoding-new-york-states-all-electric-new-buildings-law/) *(via urbangreencouncil.org)*
+
+
+
 ### 📅 [June 19, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-19_digest.md)
 - **[Commercial Real Estate]** [BXP Executes 150,000 Square Foot Lease with McDermott Will & Schulte at 343 Madison Avenue](https://www.businesswire.com/news/home/20260616939299/en/BXP-Executes-150000-Square-Foot-Lease-with-McDermott-Will-Schulte-at-343-Madison-Avenue) *(via businesswire.com)*
 - **[Real Estate Development]** [Hoboken Connect Mixed-Use Development Takes Shape: Hudson Place Public Plaza Opens as First Phase of Transit-Hub Redevelopment](https://newyorkyimby.com/2026/06/hoboken-connect-mixed-use-development-takes-shape-in-hoboken-new-jersey.html) *(via newyorkyimby.com)*

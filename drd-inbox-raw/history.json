@@ -551,6 +551,29 @@
           "source": "marketscale.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-20",
+      "articles": [
+        {
+          "title": "Real Estate: Market Pulse (June 2026)",
+          "category": "Commercial Real Estate",
+          "link": "https://www.seyfarth.com/news-insights/real-estate-market-pulse-june-2026.html",
+          "source": "seyfarth.com"
+        },
+        {
+          "title": "New Jersey Housing Boom 2026: Central Jersey Rail Towns Lead Multifamily Growth",
+          "category": "Real Estate Development",
+          "link": "https://www.constructionowners.com/news/central-jersey-rail-towns-drive-new-jersey-housing-boom-as-multifamily-development-surges",
+          "source": "constructionowners.com"
+        },
+        {
+          "title": "All-Electric Buildings Act Takes Effect Across NY in 2026: Key Compliance Rules for Developers and Engineers",
+          "category": "Engineering Principles",
+          "link": "https://www.urbangreencouncil.org/decoding-new-york-states-all-electric-new-buildings-law/",
+          "source": "urbangreencouncil.org"
+        }
+      ]
     }
   ]
 }
