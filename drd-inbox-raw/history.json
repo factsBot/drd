@@ -574,6 +574,29 @@
           "source": "urbangreencouncil.org"
         }
       ]
+    },
+    {
+      "date": "2026-06-21",
+      "articles": [
+        {
+          "title": "NYC's Trophy Towers Are Leasing Before They're Built",
+          "category": "Commercial Real Estate",
+          "link": "https://www.credaily.com/newsletters/new-york/issue/nycs-trophy-towers-are-leasing-before-theyre-built/",
+          "source": "CRE Daily (credaily.com)"
+        },
+        {
+          "title": "Boston Multifamily Transaction Activity Accelerates",
+          "category": "Real Estate Development",
+          "link": "https://www.northmarq.com/insights/insights/boston-multifamily-transaction-activity-accelerates-q1-2026",
+          "source": "Northmarq"
+        },
+        {
+          "title": "Bluebeam Releases Max Capabilities, Expands Revu",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63085-bluebeam-releases-max-capabilities-expands-revu",
+          "source": "Engineering News-Record (ENR)"
+        }
+      ]
     }
   ]
 }

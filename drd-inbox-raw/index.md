@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 21, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-21_digest.md)
+- **[Commercial Real Estate]** [NYC's Trophy Towers Are Leasing Before They're Built](https://www.credaily.com/newsletters/new-york/issue/nycs-trophy-towers-are-leasing-before-theyre-built/) *(via CRE Daily (credaily.com))*
+- **[Real Estate Development]** [Boston Multifamily Transaction Activity Accelerates](https://www.northmarq.com/insights/insights/boston-multifamily-transaction-activity-accelerates-q1-2026) *(via Northmarq)*
+- **[Engineering Principles]** [Bluebeam Releases Max Capabilities, Expands Revu](https://www.enr.com/articles/63085-bluebeam-releases-max-capabilities-expands-revu) *(via Engineering News-Record (ENR))*
+
+
+
 ### 📅 [June 20, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-20_digest.md)
 - **[Commercial Real Estate]** [Real Estate: Market Pulse (June 2026)](https://www.seyfarth.com/news-insights/real-estate-market-pulse-june-2026.html) *(via seyfarth.com)*
 - **[Real Estate Development]** [New Jersey Housing Boom 2026: Central Jersey Rail Towns Lead Multifamily Growth](https://www.constructionowners.com/news/central-jersey-rail-towns-drive-new-jersey-housing-boom-as-multifamily-development-surges) *(via constructionowners.com)*
