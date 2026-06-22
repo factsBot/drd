@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 22, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-22_digest.md)
+- **[Artificial Intelligence]** [Trunk Tools Launches Cortex to Tackle Construction's Hardest AI Problem: Drawings](https://www.enr.com/articles/63178-trunk-tools-launches-cortex-ai-platform-to-interpret-construction-drawings) *(via enr.com)*
+- **[Real Estate Development]** [Greystar and University of Pennsylvania Close on 493-Bed Graduate Housing Re-Development Project on Penn Campus](https://www.globenewswire.com/news-release/2026/06/03/3306092/0/en/Greystar-and-University-of-Pennsylvania-Close-on-493-Bed-Student-Housing-Re-Development-Project-on-Penn-Campus.html) *(via globenewswire.com)*
+- **[Engineering Principles]** [Top 400 Contractors Hit Craft Ceiling as AI Boom Strains Skilled Labor Resources](https://www.enr.com/articles/63029-top-400-contractors-hit-craft-ceiling-as-ai-boom-strains-skilled-labor-resources) *(via enr.com)*
+
+
+
 ### 📅 [June 21, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-21_digest.md)
 - **[Commercial Real Estate]** [NYC's Trophy Towers Are Leasing Before They're Built](https://www.credaily.com/newsletters/new-york/issue/nycs-trophy-towers-are-leasing-before-theyre-built/) *(via CRE Daily (credaily.com))*
 - **[Real Estate Development]** [Boston Multifamily Transaction Activity Accelerates](https://www.northmarq.com/insights/insights/boston-multifamily-transaction-activity-accelerates-q1-2026) *(via Northmarq)*

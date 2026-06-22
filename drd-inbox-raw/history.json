@@ -597,6 +597,29 @@
           "source": "Engineering News-Record (ENR)"
         }
       ]
+    },
+    {
+      "date": "2026-06-22",
+      "articles": [
+        {
+          "title": "Trunk Tools Launches Cortex to Tackle Construction's Hardest AI Problem: Drawings",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63178-trunk-tools-launches-cortex-ai-platform-to-interpret-construction-drawings",
+          "source": "enr.com"
+        },
+        {
+          "title": "Greystar and University of Pennsylvania Close on 493-Bed Graduate Housing Re-Development Project on Penn Campus",
+          "category": "Real Estate Development",
+          "link": "https://www.globenewswire.com/news-release/2026/06/03/3306092/0/en/Greystar-and-University-of-Pennsylvania-Close-on-493-Bed-Student-Housing-Re-Development-Project-on-Penn-Campus.html",
+          "source": "globenewswire.com"
+        },
+        {
+          "title": "Top 400 Contractors Hit Craft Ceiling as AI Boom Strains Skilled Labor Resources",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63029-top-400-contractors-hit-craft-ceiling-as-ai-boom-strains-skilled-labor-resources",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }
