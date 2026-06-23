@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 23, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-23_digest.md)
+- **[Commercial Real Estate]** [Yellowstone Nabs $480M Construction Loan for 1740 Broadway Office-to-Resi Conversion](https://commercialobserver.com/2026/06/madison-realty-capital-1740-broadway-manhattan-office-to-residential-conversion/) *(via commercialobserver.com)*
+- **[Real Estate Development]** [Arverne East Building D Breaks Ground: $278M Affordable Net-Zero Community in Far Rockaway](https://hcr.ny.gov/news/governor-hochul-announces-groundbreaking-278-million-affordable-development-queens-expanding) *(via hcr.ny.gov)*
+- **[Engineering Principles]** [Preparing for New Energy Code Requirements in New York City: 2025 NYCECC Now in Effect](https://www.sgh.com/insight/preparing-for-new-energy-code-requirements-in-new-york-city/) *(via sgh.com)*
+
+
+
 ### 📅 [June 22, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-22_digest.md)
 - **[Artificial Intelligence]** [Trunk Tools Launches Cortex to Tackle Construction's Hardest AI Problem: Drawings](https://www.enr.com/articles/63178-trunk-tools-launches-cortex-ai-platform-to-interpret-construction-drawings) *(via enr.com)*
 - **[Real Estate Development]** [Greystar and University of Pennsylvania Close on 493-Bed Graduate Housing Re-Development Project on Penn Campus](https://www.globenewswire.com/news-release/2026/06/03/3306092/0/en/Greystar-and-University-of-Pennsylvania-Close-on-493-Bed-Student-Housing-Re-Development-Project-on-Penn-Campus.html) *(via globenewswire.com)*

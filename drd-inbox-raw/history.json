@@ -620,6 +620,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-23",
+      "articles": [
+        {
+          "title": "Yellowstone Nabs $480M Construction Loan for 1740 Broadway Office-to-Resi Conversion",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/madison-realty-capital-1740-broadway-manhattan-office-to-residential-conversion/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Arverne East Building D Breaks Ground: $278M Affordable Net-Zero Community in Far Rockaway",
+          "category": "Real Estate Development",
+          "link": "https://hcr.ny.gov/news/governor-hochul-announces-groundbreaking-278-million-affordable-development-queens-expanding",
+          "source": "hcr.ny.gov"
+        },
+        {
+          "title": "Preparing for New Energy Code Requirements in New York City: 2025 NYCECC Now in Effect",
+          "category": "Engineering Principles",
+          "link": "https://www.sgh.com/insight/preparing-for-new-energy-code-requirements-in-new-york-city/",
+          "source": "sgh.com"
+        }
+      ]
     }
   ]
 }
