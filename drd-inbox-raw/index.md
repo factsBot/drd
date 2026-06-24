@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 24, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-24_digest.md)
+- **[Artificial Intelligence]** [McCarthy and Palantir Announce Strategic Partnership to Bring AI to the Construction Field](https://www.businesswire.com/news/home/20260604988849/en/McCarthy-and-Palantir-Announce-Strategic-Partnership-to-Bring-AI-to-the-Construction-Field-and-Beyond) *(via businesswire.com)*
+- **[Engineering Principles]** [CRH to Acquire Arcosa for $8.5B — Building Materials Giant's Largest Deal Reshapes U.S. Aggregates Supply Chain](https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/) *(via crh.com)*
+- **[Commercial Real Estate]** [AI Firms Are Flooding Manhattan Offices — NYC AI Office Leasing Surges as Vacancy Tightens to 13.5%](https://www.bisnow.com/new-york/news/office/ai-companies-nyc-office-leasing-q1-2026-134012) *(via bisnow.com)*
+
+
+
 ### 📅 [June 23, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-23_digest.md)
 - **[Commercial Real Estate]** [Yellowstone Nabs $480M Construction Loan for 1740 Broadway Office-to-Resi Conversion](https://commercialobserver.com/2026/06/madison-realty-capital-1740-broadway-manhattan-office-to-residential-conversion/) *(via commercialobserver.com)*
 - **[Real Estate Development]** [Arverne East Building D Breaks Ground: $278M Affordable Net-Zero Community in Far Rockaway](https://hcr.ny.gov/news/governor-hochul-announces-groundbreaking-278-million-affordable-development-queens-expanding) *(via hcr.ny.gov)*

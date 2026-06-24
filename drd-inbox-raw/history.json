@@ -643,6 +643,29 @@
           "source": "sgh.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-24",
+      "articles": [
+        {
+          "title": "McCarthy and Palantir Announce Strategic Partnership to Bring AI to the Construction Field",
+          "category": "Artificial Intelligence",
+          "link": "https://www.businesswire.com/news/home/20260604988849/en/McCarthy-and-Palantir-Announce-Strategic-Partnership-to-Bring-AI-to-the-Construction-Field-and-Beyond",
+          "source": "businesswire.com"
+        },
+        {
+          "title": "CRH to Acquire Arcosa for $8.5B — Building Materials Giant's Largest Deal Reshapes U.S. Aggregates Supply Chain",
+          "category": "Engineering Principles",
+          "link": "https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/",
+          "source": "crh.com"
+        },
+        {
+          "title": "AI Firms Are Flooding Manhattan Offices — NYC AI Office Leasing Surges as Vacancy Tightens to 13.5%",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bisnow.com/new-york/news/office/ai-companies-nyc-office-leasing-q1-2026-134012",
+          "source": "bisnow.com"
+        }
+      ]
     }
   ]
 }
