@@ -666,6 +666,29 @@
           "source": "bisnow.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-25",
+      "articles": [
+        {
+          "title": "S3 Capital Lends $102M for Hell’s Kitchen Office-to-Resi Conversion",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/s3-capital-manhattan-office-to-resi-conversion/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Jersey City Planning Board Approves 47-Story, 1,049-Unit Mixed-Use Tower at 8-16 Lott Street in Journal Square",
+          "category": "Real Estate Development",
+          "link": "https://jerseydigs.com/8-10-lott-st-development-jersey-city/",
+          "source": "jerseydigs.com"
+        },
+        {
+          "title": "Construction Quality Startup Structured AI Raises $4.2M Seed Round, Partners with Syska Hennessy Group for AI-Powered MEP QA/QC",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63139-construction-quality-startup-structured-ai-raises-42m-seed-round",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }

@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 25, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-25_digest.md)
+- **[Commercial Real Estate]** [S3 Capital Lends $102M for Hell’s Kitchen Office-to-Resi Conversion](https://commercialobserver.com/2026/06/s3-capital-manhattan-office-to-resi-conversion/) *(via commercialobserver.com)*
+- **[Real Estate Development]** [Jersey City Planning Board Approves 47-Story, 1,049-Unit Mixed-Use Tower at 8-16 Lott Street in Journal Square](https://jerseydigs.com/8-10-lott-st-development-jersey-city/) *(via jerseydigs.com)*
+- **[Artificial Intelligence]** [Construction Quality Startup Structured AI Raises $4.2M Seed Round, Partners with Syska Hennessy Group for AI-Powered MEP QA/QC](https://www.enr.com/articles/63139-construction-quality-startup-structured-ai-raises-42m-seed-round) *(via enr.com)*
+
+
+
 ### 📅 [June 24, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-24_digest.md)
 - **[Artificial Intelligence]** [McCarthy and Palantir Announce Strategic Partnership to Bring AI to the Construction Field](https://www.businesswire.com/news/home/20260604988849/en/McCarthy-and-Palantir-Announce-Strategic-Partnership-to-Bring-AI-to-the-Construction-Field-and-Beyond) *(via businesswire.com)*
 - **[Engineering Principles]** [CRH to Acquire Arcosa for $8.5B — Building Materials Giant's Largest Deal Reshapes U.S. Aggregates Supply Chain](https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/) *(via crh.com)*
