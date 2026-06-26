@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 26, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-26_digest.md)
+- **[Artificial Intelligence]** [AI Data Centers Become City-Scale Infrastructure, Prompting New Industry Playbook](https://www.enr.com/articles/63177-ai-data-centers-become-city-scale-infrastructure-prompting-new-industry-playbook) *(via enr.com)*
+- **[Commercial Real Estate]** [U.S. Office Market Report June 2026](https://www.commercialcafe.com/blog/national-office-report/) *(via commercialcafe.com)*
+- **[Real Estate Development]** [Renderings Reveal Phase One Of Hoboken Housing Authority Redevelopment in Hoboken, New Jersey](https://newyorkyimby.com/2026/06/renderings-reveal-phase-one-of-hoboken-housing-authority-redevelopment-in-hoboken-new-jersey.html) *(via newyorkyimby.com)*
+
+
+
 ### 📅 [June 25, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-25_digest.md)
 - **[Commercial Real Estate]** [S3 Capital Lends $102M for Hell’s Kitchen Office-to-Resi Conversion](https://commercialobserver.com/2026/06/s3-capital-manhattan-office-to-resi-conversion/) *(via commercialobserver.com)*
 - **[Real Estate Development]** [Jersey City Planning Board Approves 47-Story, 1,049-Unit Mixed-Use Tower at 8-16 Lott Street in Journal Square](https://jerseydigs.com/8-10-lott-st-development-jersey-city/) *(via jerseydigs.com)*

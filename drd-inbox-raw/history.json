@@ -689,6 +689,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-26",
+      "articles": [
+        {
+          "title": "AI Data Centers Become City-Scale Infrastructure, Prompting New Industry Playbook",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63177-ai-data-centers-become-city-scale-infrastructure-prompting-new-industry-playbook",
+          "source": "enr.com"
+        },
+        {
+          "title": "U.S. Office Market Report June 2026",
+          "category": "Commercial Real Estate",
+          "link": "https://www.commercialcafe.com/blog/national-office-report/",
+          "source": "commercialcafe.com"
+        },
+        {
+          "title": "Renderings Reveal Phase One Of Hoboken Housing Authority Redevelopment in Hoboken, New Jersey",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/renderings-reveal-phase-one-of-hoboken-housing-authority-redevelopment-in-hoboken-new-jersey.html",
+          "source": "newyorkyimby.com"
+        }
+      ]
     }
   ]
 }
