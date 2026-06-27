@@ -712,6 +712,29 @@
           "source": "newyorkyimby.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-27",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 26, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Charney, Tavros, and Incoco Close $785M Construction Capitalization for 175 Third Street — Gowanus Wharf's Largest Building",
+          "category": "Real Estate Development",
+          "link": "https://www.bisnow.com/new-york/news/multifamily/charney-tavros-score-785m-construction-financing-for-gowanus-largest-resi-building-135181",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "John Deere Bets Connected Roadbuilding Is Its Next Competitive Advantage",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63224-john-deere-bets-connected-roadbuilding-is-its-next-competitive-advantage",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }

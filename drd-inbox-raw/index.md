@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 27, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-27_digest.md)
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 26, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Real Estate Development]** [Charney, Tavros, and Incoco Close $785M Construction Capitalization for 175 Third Street — Gowanus Wharf's Largest Building](https://www.bisnow.com/new-york/news/multifamily/charney-tavros-score-785m-construction-financing-for-gowanus-largest-resi-building-135181) *(via bisnow.com)*
+- **[Engineering Principles]** [John Deere Bets Connected Roadbuilding Is Its Next Competitive Advantage](https://www.enr.com/articles/63224-john-deere-bets-connected-roadbuilding-is-its-next-competitive-advantage) *(via enr.com)*
+
+
+
 ### 📅 [June 26, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-26_digest.md)
 - **[Artificial Intelligence]** [AI Data Centers Become City-Scale Infrastructure, Prompting New Industry Playbook](https://www.enr.com/articles/63177-ai-data-centers-become-city-scale-infrastructure-prompting-new-industry-playbook) *(via enr.com)*
 - **[Commercial Real Estate]** [U.S. Office Market Report June 2026](https://www.commercialcafe.com/blog/national-office-report/) *(via commercialcafe.com)*
