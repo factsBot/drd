@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 28, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-28_digest.md)
+- **[Commercial Real Estate]** [NYC Board of Education Retirement System Signs 30-Year, 78K SF Lease at 55 Water Street](https://commercialobserver.com/2026/06/nyc-education-retirement-system-lease-55-water-street/) *(via commercialobserver.com)*
+- **[Artificial Intelligence]** [Unanet Releases 2026 AEC Inspire Report: AI Adoption Reaches 75% of Firms, But Data Confidence Lags at 29%](https://unanet.com/news/unanet-releases-2026-aec-inspire-report-revealing-ai-adoption-surge-while-data-confidence-lags) *(via unanet.com)*
+- **[Engineering Principles]** [New Panama Canal Chief Takes on Next Wave of Megaprojects: $8.5B+ Capital Improvement Plan](https://www.enr.com/articles/63214-new-panama-canal-chief-takes-on-next-wave-of-megaprojects) *(via enr.com)*
+
+
+
 ### 📅 [June 27, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-27_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (June 26, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Real Estate Development]** [Charney, Tavros, and Incoco Close $785M Construction Capitalization for 175 Third Street — Gowanus Wharf's Largest Building](https://www.bisnow.com/new-york/news/multifamily/charney-tavros-score-785m-construction-financing-for-gowanus-largest-resi-building-135181) *(via bisnow.com)*

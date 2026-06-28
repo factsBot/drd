@@ -735,6 +735,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-28",
+      "articles": [
+        {
+          "title": "NYC Board of Education Retirement System Signs 30-Year, 78K SF Lease at 55 Water Street",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/nyc-education-retirement-system-lease-55-water-street/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Unanet Releases 2026 AEC Inspire Report: AI Adoption Reaches 75% of Firms, But Data Confidence Lags at 29%",
+          "category": "Artificial Intelligence",
+          "link": "https://unanet.com/news/unanet-releases-2026-aec-inspire-report-revealing-ai-adoption-surge-while-data-confidence-lags",
+          "source": "unanet.com"
+        },
+        {
+          "title": "New Panama Canal Chief Takes on Next Wave of Megaprojects: $8.5B+ Capital Improvement Plan",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63214-new-panama-canal-chief-takes-on-next-wave-of-megaprojects",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }
