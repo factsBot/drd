@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 29, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-29_digest.md)
+- **[Commercial Real Estate]** [2 Park Avenue Signs 165K SF of Office Leases](https://www.connectcre.com/stories/2-park-avenue-signs-165k-sf-of-office-leases/) *(via connectcre.com)*
+- **[Real Estate Development]** [Coney Island III All-Affordable Building Tops Out At 1709 Surf Avenue in Coney Island, Brooklyn](https://newyorkyimby.com/2026/06/coney-island-iii-all-affordable-building-tops-out-at-1709-surf-avenue-in-coney-island-brooklyn.html) *(via newyorkyimby.com)*
+- **[Engineering Principles]** [Scia Engineer 2026 Launches with ASCE 7-22 Wind Code Automation, 2nd-Gen Eurocode Compliance, and Advanced Vibration Analysis](https://aecmag.com/structural-engineering/scia-engineer-2026-launches/) *(via aecmag.com)*
+
+
+
 ### 📅 [June 28, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-28_digest.md)
 - **[Commercial Real Estate]** [NYC Board of Education Retirement System Signs 30-Year, 78K SF Lease at 55 Water Street](https://commercialobserver.com/2026/06/nyc-education-retirement-system-lease-55-water-street/) *(via commercialobserver.com)*
 - **[Artificial Intelligence]** [Unanet Releases 2026 AEC Inspire Report: AI Adoption Reaches 75% of Firms, But Data Confidence Lags at 29%](https://unanet.com/news/unanet-releases-2026-aec-inspire-report-revealing-ai-adoption-surge-while-data-confidence-lags) *(via unanet.com)*

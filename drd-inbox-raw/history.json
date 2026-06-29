@@ -758,6 +758,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-29",
+      "articles": [
+        {
+          "title": "2 Park Avenue Signs 165K SF of Office Leases",
+          "category": "Commercial Real Estate",
+          "link": "https://www.connectcre.com/stories/2-park-avenue-signs-165k-sf-of-office-leases/",
+          "source": "connectcre.com"
+        },
+        {
+          "title": "Coney Island III All-Affordable Building Tops Out At 1709 Surf Avenue in Coney Island, Brooklyn",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/coney-island-iii-all-affordable-building-tops-out-at-1709-surf-avenue-in-coney-island-brooklyn.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Scia Engineer 2026 Launches with ASCE 7-22 Wind Code Automation, 2nd-Gen Eurocode Compliance, and Advanced Vibration Analysis",
+          "category": "Engineering Principles",
+          "link": "https://aecmag.com/structural-engineering/scia-engineer-2026-launches/",
+          "source": "aecmag.com"
+        }
+      ]
     }
   ]
 }
