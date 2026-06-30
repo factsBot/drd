@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [June 30, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-30_digest.md)
+- **[Commercial Real Estate]** [Law Firms and Manhattan Office Leasing: Why It's Way Up in 2026](https://commercialobserver.com/2026/06/law-firms-manhattan-office-leasing/) *(via commercialobserver.com)*
+- **[Real Estate Development]** [Rendering Reveals Tishman Speyer's 17-Story Edgemere Commons B2 — 300 Affordable Units in Far Rockaway, Queens](https://newyorkyimby.com/2026/06/rendering-reveals-332-beach-52nd-street-at-edgemere-commons-in-far-rockaway-queens.html) *(via newyorkyimby.com)*
+- **[Engineering Principles]** [Buildots Launches Intelligence Lab, Construction's First AI-Powered Research Hub](https://www.enr.com/articles/63235-buildots-launches-intelligence-lab-an-ai-powered-project-data-research-hub) *(via enr.com)*
+
+
+
 ### 📅 [June 29, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-29_digest.md)
 - **[Commercial Real Estate]** [2 Park Avenue Signs 165K SF of Office Leases](https://www.connectcre.com/stories/2-park-avenue-signs-165k-sf-of-office-leases/) *(via connectcre.com)*
 - **[Real Estate Development]** [Coney Island III All-Affordable Building Tops Out At 1709 Surf Avenue in Coney Island, Brooklyn](https://newyorkyimby.com/2026/06/coney-island-iii-all-affordable-building-tops-out-at-1709-surf-avenue-in-coney-island-brooklyn.html) *(via newyorkyimby.com)*

@@ -781,6 +781,29 @@
           "source": "aecmag.com"
         }
       ]
+    },
+    {
+      "date": "2026-06-30",
+      "articles": [
+        {
+          "title": "Law Firms and Manhattan Office Leasing: Why It's Way Up in 2026",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/law-firms-manhattan-office-leasing/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Rendering Reveals Tishman Speyer's 17-Story Edgemere Commons B2 — 300 Affordable Units in Far Rockaway, Queens",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/rendering-reveals-332-beach-52nd-street-at-edgemere-commons-in-far-rockaway-queens.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Buildots Launches Intelligence Lab, Construction's First AI-Powered Research Hub",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63235-buildots-launches-intelligence-lab-an-ai-powered-project-data-research-hub",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }
