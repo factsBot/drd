@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 01, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-01_digest.md)
+- **[Artificial Intelligence]** [Claude Sonnet 5 Launches: 1M Token Context, New Tokenizer, Breaking API Changes (June 30, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Real Estate Development]** [Mayor Mamdani and NYC Health + Hospitals Break Ground on $255M River Commons: 328 Affordable Homes + First Integrated Healthcare-Residential on Hospital Property](https://www.nyc.gov/mayors-office/news/2026/06/mayor-mamdani-breaks-ground-on--255-million-river-commons-develo) *(via NYC Mayor's Office)*
+- **[Engineering Principles]** [Construction Job Openings Hit 10-Month High at 298,000 — Data Center Electrician Demand Distorts Industry Labor Picture](https://www.enr.com/articles/63246-construction-job-openings-reach-10-month-high) *(via enr.com)*
+
+
+
 ### 📅 [June 30, 2026](file:////home/user/drd/drd-inbox-raw/2026-06-30_digest.md)
 - **[Commercial Real Estate]** [Law Firms and Manhattan Office Leasing: Why It's Way Up in 2026](https://commercialobserver.com/2026/06/law-firms-manhattan-office-leasing/) *(via commercialobserver.com)*
 - **[Real Estate Development]** [Rendering Reveals Tishman Speyer's 17-Story Edgemere Commons B2 — 300 Affordable Units in Far Rockaway, Queens](https://newyorkyimby.com/2026/06/rendering-reveals-332-beach-52nd-street-at-edgemere-commons-in-far-rockaway-queens.html) *(via newyorkyimby.com)*

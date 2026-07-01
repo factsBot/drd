@@ -804,6 +804,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-01",
+      "articles": [
+        {
+          "title": "Claude Sonnet 5 Launches: 1M Token Context, New Tokenizer, Breaking API Changes (June 30, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Mayor Mamdani and NYC Health + Hospitals Break Ground on $255M River Commons: 328 Affordable Homes + First Integrated Healthcare-Residential on Hospital Property",
+          "category": "Real Estate Development",
+          "link": "https://www.nyc.gov/mayors-office/news/2026/06/mayor-mamdani-breaks-ground-on--255-million-river-commons-develo",
+          "source": "NYC Mayor's Office"
+        },
+        {
+          "title": "Construction Job Openings Hit 10-Month High at 298,000 — Data Center Electrician Demand Distorts Industry Labor Picture",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63246-construction-job-openings-reach-10-month-high",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }
