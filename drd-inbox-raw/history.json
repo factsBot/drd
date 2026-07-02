@@ -827,6 +827,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-02",
+      "articles": [
+        {
+          "title": "Manhattan's Office Leasing at Velocity Not Seen Since 2002: Report",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/07/manhattan-office-leasing-q2-2026-report/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "New York YIMBY's 2026 First-Quarter Construction Report Tallies a Dramatic Increase in Development",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/05/new-york-yimbys-2026-first-quarter-construction-report-tallies-a-dramatic-increase-in-development.html",
+          "source": "New York YIMBY"
+        },
+        {
+          "title": "Revit 2027: A More Connected Way to Design — Autodesk Makes Revit Its First Forma Cloud Connected Client",
+          "category": "Engineering Principles",
+          "link": "https://www.autodesk.com/blogs/aec/2026/04/09/revit-2027-a-more-connected-way-to-design/",
+          "source": "Autodesk"
+        }
+      ]
     }
   ]
 }

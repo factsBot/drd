@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 02, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-02_digest.md)
+- **[Commercial Real Estate]** [Manhattan's Office Leasing at Velocity Not Seen Since 2002: Report](https://commercialobserver.com/2026/07/manhattan-office-leasing-q2-2026-report/) *(via Commercial Observer)*
+- **[Real Estate Development]** [New York YIMBY's 2026 First-Quarter Construction Report Tallies a Dramatic Increase in Development](https://newyorkyimby.com/2026/05/new-york-yimbys-2026-first-quarter-construction-report-tallies-a-dramatic-increase-in-development.html) *(via New York YIMBY)*
+- **[Engineering Principles]** [Revit 2027: A More Connected Way to Design — Autodesk Makes Revit Its First Forma Cloud Connected Client](https://www.autodesk.com/blogs/aec/2026/04/09/revit-2027-a-more-connected-way-to-design/) *(via Autodesk)*
+
+
+
 ### 📅 [July 01, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-01_digest.md)
 - **[Artificial Intelligence]** [Claude Sonnet 5 Launches: 1M Token Context, New Tokenizer, Breaking API Changes (June 30, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Real Estate Development]** [Mayor Mamdani and NYC Health + Hospitals Break Ground on $255M River Commons: 328 Affordable Homes + First Integrated Healthcare-Residential on Hospital Property](https://www.nyc.gov/mayors-office/news/2026/06/mayor-mamdani-breaks-ground-on--255-million-river-commons-develo) *(via NYC Mayor's Office)*
