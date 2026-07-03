@@ -850,6 +850,29 @@
           "source": "Autodesk"
         }
       ]
+    },
+    {
+      "date": "2026-07-03",
+      "articles": [
+        {
+          "title": "Homebuilding AI Raises $95M: Floor Plan Vision Tech Moves Into Lumber Supply Chain",
+          "category": "Artificial Intelligence",
+          "link": "https://www.techtimes.com/articles/319480/20260701/homebuilding-ai-raises-95m-floor-plan-vision-tech-moves-lumber-supply-chain.htm",
+          "source": "Tech Times"
+        },
+        {
+          "title": "Financing Package Secured For Sol On Park At 3728 Park Avenue",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/sol-on-park-affordable-senior-housing-project-secures-financing-at-3728-park-avenue-in-claremont-the-bronx.html",
+          "source": "New York YIMBY"
+        },
+        {
+          "title": "Construction Spending Inches Up Slightly in May",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63256-construction-spending-inches-up-slightly-in-may",
+          "source": "Engineering News-Record (ENR)"
+        }
+      ]
     }
   ]
 }

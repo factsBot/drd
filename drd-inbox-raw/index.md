@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 03, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-03_digest.md)
+- **[Artificial Intelligence]** [Homebuilding AI Raises $95M: Floor Plan Vision Tech Moves Into Lumber Supply Chain](https://www.techtimes.com/articles/319480/20260701/homebuilding-ai-raises-95m-floor-plan-vision-tech-moves-lumber-supply-chain.htm) *(via Tech Times)*
+- **[Real Estate Development]** [Financing Package Secured For Sol On Park At 3728 Park Avenue](https://newyorkyimby.com/2026/07/sol-on-park-affordable-senior-housing-project-secures-financing-at-3728-park-avenue-in-claremont-the-bronx.html) *(via New York YIMBY)*
+- **[Engineering Principles]** [Construction Spending Inches Up Slightly in May](https://www.enr.com/articles/63256-construction-spending-inches-up-slightly-in-may) *(via Engineering News-Record (ENR))*
+
+
+
 ### 📅 [July 02, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-02_digest.md)
 - **[Commercial Real Estate]** [Manhattan's Office Leasing at Velocity Not Seen Since 2002: Report](https://commercialobserver.com/2026/07/manhattan-office-leasing-q2-2026-report/) *(via Commercial Observer)*
 - **[Real Estate Development]** [New York YIMBY's 2026 First-Quarter Construction Report Tallies a Dramatic Increase in Development](https://newyorkyimby.com/2026/05/new-york-yimbys-2026-first-quarter-construction-report-tallies-a-dramatic-increase-in-development.html) *(via New York YIMBY)*
