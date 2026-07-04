@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 04, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-04_digest.md)
+- **[Commercial Real Estate]** [Rithm Capital Chips In $73M To Refinance Midtown Office Loan](https://www.bisnow.com/new-york/news/office/rithm-chips-in-equity-to-score-415m-cmbs-loan-for-midtown-office-tower-135285) *(via bisnow.com)*
+- **[Real Estate Development]** [The Willow Breaks Ground At 1033 Willow Avenue In Hoboken](https://newyorkyimby.com/2026/07/the-willow-affordable-senior-housing-project-breaks-ground-at-1033-willow-avenue-in-hoboken-new-jersey.html) *(via newyorkyimby.com)*
+- **[Artificial Intelligence]** [Suffolk Ventures, DPR Construction Invest in AI-Enabled Skilled Labor Platform Skillit](https://www.enr.com/articles/63275-suffolk-ventures-dpr-construction-invest-in-ai-enabled-skilled-labor-platform-skillit) *(via enr.com)*
+
+
+
 ### 📅 [July 03, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-03_digest.md)
 - **[Artificial Intelligence]** [Homebuilding AI Raises $95M: Floor Plan Vision Tech Moves Into Lumber Supply Chain](https://www.techtimes.com/articles/319480/20260701/homebuilding-ai-raises-95m-floor-plan-vision-tech-moves-lumber-supply-chain.htm) *(via Tech Times)*
 - **[Real Estate Development]** [Financing Package Secured For Sol On Park At 3728 Park Avenue](https://newyorkyimby.com/2026/07/sol-on-park-affordable-senior-housing-project-secures-financing-at-3728-park-avenue-in-claremont-the-bronx.html) *(via New York YIMBY)*

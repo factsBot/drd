@@ -873,6 +873,29 @@
           "source": "Engineering News-Record (ENR)"
         }
       ]
+    },
+    {
+      "date": "2026-07-04",
+      "articles": [
+        {
+          "title": "Rithm Capital Chips In $73M To Refinance Midtown Office Loan",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bisnow.com/new-york/news/office/rithm-chips-in-equity-to-score-415m-cmbs-loan-for-midtown-office-tower-135285",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "The Willow Breaks Ground At 1033 Willow Avenue In Hoboken",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/the-willow-affordable-senior-housing-project-breaks-ground-at-1033-willow-avenue-in-hoboken-new-jersey.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Suffolk Ventures, DPR Construction Invest in AI-Enabled Skilled Labor Platform Skillit",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63275-suffolk-ventures-dpr-construction-invest-in-ai-enabled-skilled-labor-platform-skillit",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }
