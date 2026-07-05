@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 05, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-05_digest.md)
+- **[Artificial Intelligence]** [Build Raises $8.5M Seed for AI-Driven Infrastructure Due Diligence Platform](https://aecmag.com/ai/build-raises-8-5m-seed-for-ai-driven-infrastructure-due-diligence-platform/) *(via aecmag.com)*
+- **[Engineering Principles]** [The ENR Top 500 Review: AI Wave Raises Design Revenue, Jacobs Claims No. 1 Spot](https://www.enr.com/articles/63274-the-enr-top-500-review-ai-wave-raises-design-revenue) *(via enr.com)*
+- **[Real Estate Development]** [832-Foot Skyscraper Rises at 70 Hudson Yards in Manhattan — NYC’s First Zero-Carbon Office Tower](https://newyorkyimby.com/2026/07/832-foot-skyscraper-rises-at-70-hudson-yards-in-hudson-yards-manhattan.html) *(via newyorkyimby.com)*
+
+
+
 ### 📅 [July 04, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-04_digest.md)
 - **[Commercial Real Estate]** [Rithm Capital Chips In $73M To Refinance Midtown Office Loan](https://www.bisnow.com/new-york/news/office/rithm-chips-in-equity-to-score-415m-cmbs-loan-for-midtown-office-tower-135285) *(via bisnow.com)*
 - **[Real Estate Development]** [The Willow Breaks Ground At 1033 Willow Avenue In Hoboken](https://newyorkyimby.com/2026/07/the-willow-affordable-senior-housing-project-breaks-ground-at-1033-willow-avenue-in-hoboken-new-jersey.html) *(via newyorkyimby.com)*

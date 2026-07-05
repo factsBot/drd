@@ -896,6 +896,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-05",
+      "articles": [
+        {
+          "title": "Build Raises $8.5M Seed for AI-Driven Infrastructure Due Diligence Platform",
+          "category": "Artificial Intelligence",
+          "link": "https://aecmag.com/ai/build-raises-8-5m-seed-for-ai-driven-infrastructure-due-diligence-platform/",
+          "source": "aecmag.com"
+        },
+        {
+          "title": "The ENR Top 500 Review: AI Wave Raises Design Revenue, Jacobs Claims No. 1 Spot",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63274-the-enr-top-500-review-ai-wave-raises-design-revenue",
+          "source": "enr.com"
+        },
+        {
+          "title": "832-Foot Skyscraper Rises at 70 Hudson Yards in Manhattan — NYC’s First Zero-Carbon Office Tower",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/832-foot-skyscraper-rises-at-70-hudson-yards-in-hudson-yards-manhattan.html",
+          "source": "newyorkyimby.com"
+        }
+      ]
     }
   ]
 }
