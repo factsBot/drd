@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 06, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-06_digest.md)
+- **[Commercial Real Estate]** [Scarcity at the top sends New York office rents beyond $320 a square foot](https://www.costar.com/article/1857284394/scarcity-at-the-top-sends-new-york-office-rents-beyond-320-a-square-foot) *(via CoStar)*
+- **[Artificial Intelligence]** [6 contech startups raise a combined $121M](https://www.constructiondive.com/news/contech-funding-robotics-ai-artificial-intelligence-venture-capital/821903/) *(via Construction Dive)*
+- **[Engineering Principles]** [Construction Materials Prices Jump 2.6% in May, Up Nearly 10% Year Over Year](https://www.enr.com/articles/63148-construction-materials-prices-jump-26-in-may-up-nearly-10-year-over-year) *(via ENR)*
+
+
+
 ### 📅 [July 05, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-05_digest.md)
 - **[Artificial Intelligence]** [Build Raises $8.5M Seed for AI-Driven Infrastructure Due Diligence Platform](https://aecmag.com/ai/build-raises-8-5m-seed-for-ai-driven-infrastructure-due-diligence-platform/) *(via aecmag.com)*
 - **[Engineering Principles]** [The ENR Top 500 Review: AI Wave Raises Design Revenue, Jacobs Claims No. 1 Spot](https://www.enr.com/articles/63274-the-enr-top-500-review-ai-wave-raises-design-revenue) *(via enr.com)*

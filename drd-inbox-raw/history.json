@@ -919,6 +919,29 @@
           "source": "newyorkyimby.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-06",
+      "articles": [
+        {
+          "title": "Scarcity at the top sends New York office rents beyond $320 a square foot",
+          "category": "Commercial Real Estate",
+          "link": "https://www.costar.com/article/1857284394/scarcity-at-the-top-sends-new-york-office-rents-beyond-320-a-square-foot",
+          "source": "CoStar"
+        },
+        {
+          "title": "6 contech startups raise a combined $121M",
+          "category": "Artificial Intelligence",
+          "link": "https://www.constructiondive.com/news/contech-funding-robotics-ai-artificial-intelligence-venture-capital/821903/",
+          "source": "Construction Dive"
+        },
+        {
+          "title": "Construction Materials Prices Jump 2.6% in May, Up Nearly 10% Year Over Year",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63148-construction-materials-prices-jump-26-in-may-up-nearly-10-year-over-year",
+          "source": "ENR"
+        }
+      ]
     }
   ]
 }
