@@ -942,6 +942,29 @@
           "source": "ENR"
         }
       ]
+    },
+    {
+      "date": "2026-07-07",
+      "articles": [
+        {
+          "title": "Starwood Capital Group Closes $10.2B Opportunistic Fund for Data Center Investment",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/07/starwood-capital-group-fund-data-center-investment/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Exclusive New Renderings Revealed for 262 Fifth Avenue in NoMad, Manhattan — 860-Foot Luxury Supertall Nears Completion",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/exclusive-new-renderings-revealed-for-262-fifth-avenue-in-nomad-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "ENR 2026 Top 400 Contractors: Revenue Hits $671.4B as AI Boom Drives Growth — But Craft Labor Ceiling Emerges as Critical Constraint",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63029-top-400-contractors-hit-craft-ceiling-as-ai-boom-strains-skilled-labor-resources",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }

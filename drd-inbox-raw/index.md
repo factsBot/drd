@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 07, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-07_digest.md)
+- **[Commercial Real Estate]** [Starwood Capital Group Closes $10.2B Opportunistic Fund for Data Center Investment](https://commercialobserver.com/2026/07/starwood-capital-group-fund-data-center-investment/) *(via commercialobserver.com)*
+- **[Real Estate Development]** [Exclusive New Renderings Revealed for 262 Fifth Avenue in NoMad, Manhattan — 860-Foot Luxury Supertall Nears Completion](https://newyorkyimby.com/2026/07/exclusive-new-renderings-revealed-for-262-fifth-avenue-in-nomad-manhattan.html) *(via newyorkyimby.com)*
+- **[Engineering Principles]** [ENR 2026 Top 400 Contractors: Revenue Hits $671.4B as AI Boom Drives Growth — But Craft Labor Ceiling Emerges as Critical Constraint](https://www.enr.com/articles/63029-top-400-contractors-hit-craft-ceiling-as-ai-boom-strains-skilled-labor-resources) *(via enr.com)*
+
+
+
 ### 📅 [July 06, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-06_digest.md)
 - **[Commercial Real Estate]** [Scarcity at the top sends New York office rents beyond $320 a square foot](https://www.costar.com/article/1857284394/scarcity-at-the-top-sends-new-york-office-rents-beyond-320-a-square-foot) *(via CoStar)*
 - **[Artificial Intelligence]** [6 contech startups raise a combined $121M](https://www.constructiondive.com/news/contech-funding-robotics-ai-artificial-intelligence-venture-capital/821903/) *(via Construction Dive)*
