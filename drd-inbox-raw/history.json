@@ -965,6 +965,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-08",
+      "articles": [
+        {
+          "title": "Affinius Capital Supplies $180M for Jersey City Multifamily Tower",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/07/affinius-capital-namdar-group-80m-for-jersey-center-multifamily/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Demolition Underway for 1,414-Foot Supertall at 350 Park Avenue in Midtown East, Manhattan",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/demolition-underway-for-1414-foot-supertall-at-350-park-avenue-in-midtown-east-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Nemetschek Group Completes $2.4B Acquisition of HCSS, Creating Largest Integrated Construction Software Platform",
+          "category": "Artificial Intelligence",
+          "link": "https://www.constructiondive.com/news/nemetschek-group-acquires-hcss-contech-merger-acquisition/817673/",
+          "source": "constructiondive.com"
+        }
+      ]
     }
   ]
 }

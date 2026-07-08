@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 08, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-08_digest.md)
+- **[Commercial Real Estate]** [Affinius Capital Supplies $180M for Jersey City Multifamily Tower](https://commercialobserver.com/2026/07/affinius-capital-namdar-group-80m-for-jersey-center-multifamily/) *(via commercialobserver.com)*
+- **[Real Estate Development]** [Demolition Underway for 1,414-Foot Supertall at 350 Park Avenue in Midtown East, Manhattan](https://newyorkyimby.com/2026/07/demolition-underway-for-1414-foot-supertall-at-350-park-avenue-in-midtown-east-manhattan.html) *(via newyorkyimby.com)*
+- **[Artificial Intelligence]** [Nemetschek Group Completes $2.4B Acquisition of HCSS, Creating Largest Integrated Construction Software Platform](https://www.constructiondive.com/news/nemetschek-group-acquires-hcss-contech-merger-acquisition/817673/) *(via constructiondive.com)*
+
+
+
 ### 📅 [July 07, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-07_digest.md)
 - **[Commercial Real Estate]** [Starwood Capital Group Closes $10.2B Opportunistic Fund for Data Center Investment](https://commercialobserver.com/2026/07/starwood-capital-group-fund-data-center-investment/) *(via commercialobserver.com)*
 - **[Real Estate Development]** [Exclusive New Renderings Revealed for 262 Fifth Avenue in NoMad, Manhattan — 860-Foot Luxury Supertall Nears Completion](https://newyorkyimby.com/2026/07/exclusive-new-renderings-revealed-for-262-fifth-avenue-in-nomad-manhattan.html) *(via newyorkyimby.com)*
