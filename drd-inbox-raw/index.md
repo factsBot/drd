@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 09, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-09_digest.md)
+- **[Real Estate Development]** [Why The Collapse of the Pfizer Conversion Means It’s Time to Address the Leaning Tower of Lower Manhattan at 161 Maiden Lane](https://newyorkyimby.com/2026/07/why-the-collapse-of-the-pfizer-conversion-means-its-time-to-address-the-leaning-tower-of-lower-manhattan-at-161-maiden-lane.html) *(via New York YIMBY)*
+- **[Engineering Principles]** [The Agentic Future of BIM](https://aecmag.com/features/the-agentic-future-of-bim/) *(via AEC Magazine)*
+- **[Commercial Real Estate]** [J.P. Morgan Analysis: Macroeconomic and Geopolitical Trends Shaping NYC Commercial Real Estate in 2026](https://www.landairnyc.com/articles/j-p-morgan-analysis-macroeconomic-and-geopolitical-trends-shaping-nyc-commercial-real-estate-in-2026) *(via LandAir NYC / J.P. Morgan)*
+
+
+
 ### 📅 [July 08, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-08_digest.md)
 - **[Commercial Real Estate]** [Affinius Capital Supplies $180M for Jersey City Multifamily Tower](https://commercialobserver.com/2026/07/affinius-capital-namdar-group-80m-for-jersey-center-multifamily/) *(via commercialobserver.com)*
 - **[Real Estate Development]** [Demolition Underway for 1,414-Foot Supertall at 350 Park Avenue in Midtown East, Manhattan](https://newyorkyimby.com/2026/07/demolition-underway-for-1414-foot-supertall-at-350-park-avenue-in-midtown-east-manhattan.html) *(via newyorkyimby.com)*
