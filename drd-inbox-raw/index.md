@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 10, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-10_digest.md)
+- **[Real Estate Development]** [Silverstein Properties Breaks Ground on 2 World Trade Center — American Express Sole Anchor in 1,226-Foot, 2M SF Privately Financed Tower](https://commercialobserver.com/2026/07/silverstein-properties-breaks-ground-2-world-trade-center/) *(via Commercial Observer)*
+- **[Commercial Real Estate]** [New REBNY Report Finds Manhattan Retail Momentum Extending Beyond Prime Corridors in First Half of 2026](https://www.rebny.com/press-release/new-rebny-report-finds-manhattan-retail-momentum-extending-beyond-prime-corridors-in-first-half-of-2026/) *(via REBNY)*
+- **[Engineering Principles]** [World's Longest Immersed Tunnel Passes Milestone, But Faces Delays](https://www.enr.com/articles/63168-worlds-longest-immersed-tunnel-passes-milestone-but-faces-delays) *(via Engineering News-Record)*
+
+
+
 ### 📅 [July 09, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-09_digest.md)
 - **[Real Estate Development]** [Why The Collapse of the Pfizer Conversion Means It’s Time to Address the Leaning Tower of Lower Manhattan at 161 Maiden Lane](https://newyorkyimby.com/2026/07/why-the-collapse-of-the-pfizer-conversion-means-its-time-to-address-the-leaning-tower-of-lower-manhattan-at-161-maiden-lane.html) *(via New York YIMBY)*
 - **[Engineering Principles]** [The Agentic Future of BIM](https://aecmag.com/features/the-agentic-future-of-bim/) *(via AEC Magazine)*
