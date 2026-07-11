@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 11, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-11_digest.md)
+- **[Commercial Real Estate]** [Examining Manhattan's 13.0% Availability Rate — Q2 2026's Class B Recovery Changes the Office Narrative](https://knowledge-leader.colliers.com/brennan-yerman/examining-manhattans-13-0-availability-rate/) *(via colliers.com)*
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (July 10, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Engineering Principles]** [Buildots Launches Superstructure Tracking, Extending AI Construction Intelligence into the Structural Phase](https://aecmag.com/structural-engineering/buildots-extends-ai-tracking-platform-into-superstructure-phase) *(via aecmag.com)*
+
+
+
 ### 📅 [July 10, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-10_digest.md)
 - **[Real Estate Development]** [Silverstein Properties Breaks Ground on 2 World Trade Center — American Express Sole Anchor in 1,226-Foot, 2M SF Privately Financed Tower](https://commercialobserver.com/2026/07/silverstein-properties-breaks-ground-2-world-trade-center/) *(via Commercial Observer)*
 - **[Commercial Real Estate]** [New REBNY Report Finds Manhattan Retail Momentum Extending Beyond Prime Corridors in First Half of 2026](https://www.rebny.com/press-release/new-rebny-report-finds-manhattan-retail-momentum-extending-beyond-prime-corridors-in-first-half-of-2026/) *(via REBNY)*

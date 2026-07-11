@@ -1034,6 +1034,29 @@
           "source": "Engineering News-Record"
         }
       ]
+    },
+    {
+      "date": "2026-07-11",
+      "articles": [
+        {
+          "title": "Examining Manhattan's 13.0% Availability Rate — Q2 2026's Class B Recovery Changes the Office Narrative",
+          "category": "Commercial Real Estate",
+          "link": "https://knowledge-leader.colliers.com/brennan-yerman/examining-manhattans-13-0-availability-rate/",
+          "source": "colliers.com"
+        },
+        {
+          "title": "Claude API & Platform Release Notes (July 10, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Buildots Launches Superstructure Tracking, Extending AI Construction Intelligence into the Structural Phase",
+          "category": "Engineering Principles",
+          "link": "https://aecmag.com/structural-engineering/buildots-extends-ai-tracking-platform-into-superstructure-phase",
+          "source": "aecmag.com"
+        }
+      ]
     }
   ]
 }
