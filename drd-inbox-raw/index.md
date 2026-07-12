@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 12, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-12_digest.md)
+- **[Artificial Intelligence]** [SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work](https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/) *(via marktechpost.com)*
+- **[Real Estate Development]** [New York Apartment Construction Hits a 60-Year High](https://www.credaily.com/briefs/new-york-apartment-construction-hits-a-60-year-high/) *(via credaily.com)*
+- **[Engineering Principles]** [2026 Engineering and Construction Industry Outlook: $124B at Risk as Labor Crisis Deepens](https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html) *(via deloitte.com)*
+
+
+
 ### 📅 [July 11, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-11_digest.md)
 - **[Commercial Real Estate]** [Examining Manhattan's 13.0% Availability Rate — Q2 2026's Class B Recovery Changes the Office Narrative](https://knowledge-leader.colliers.com/brennan-yerman/examining-manhattans-13-0-availability-rate/) *(via colliers.com)*
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (July 10, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
