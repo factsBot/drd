@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 13, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-13_digest.md)
+- **[Artificial Intelligence]** [YC's Summer 2026 Cohort Floods Construction and Proptech with AI Back-Office Tools](https://www.marketscale.com/industries/engineering-and-construction/ycs-summer-2026-cohort-floods-construction-and-proptech-with-ai-back-office-tools) *(via marketscale.com)*
+- **[Real Estate Development]** [Three-Skyscraper Development with 3,950 Units Planned for 400-418 Eleventh Avenue in Hudson Yards, Manhattan](https://newyorkyimby.com/2026/07/three-skyscraper-development-with-3950-units-planned-for-400-418-eleventh-avenue-in-hudson-yards-manhattan.html) *(via newyorkyimby.com)*
+- **[Engineering Principles]** [Earthwork Underway For Manhattan Detention Center in Chinatown, Manhattan](https://newyorkyimby.com/2026/07/earthwork-underway-for-manhattan-detention-center-in-chinatown-manhattan.html) *(via newyorkyimby.com)*
+
+
+
 ### 📅 [July 12, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-12_digest.md)
 - **[Artificial Intelligence]** [SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work](https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/) *(via marktechpost.com)*
 - **[Real Estate Development]** [New York Apartment Construction Hits a 60-Year High](https://www.credaily.com/briefs/new-york-apartment-construction-hits-a-60-year-high/) *(via credaily.com)*

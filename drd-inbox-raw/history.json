@@ -1080,6 +1080,29 @@
           "source": "deloitte.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "articles": [
+        {
+          "title": "YC's Summer 2026 Cohort Floods Construction and Proptech with AI Back-Office Tools",
+          "category": "Artificial Intelligence",
+          "link": "https://www.marketscale.com/industries/engineering-and-construction/ycs-summer-2026-cohort-floods-construction-and-proptech-with-ai-back-office-tools",
+          "source": "marketscale.com"
+        },
+        {
+          "title": "Three-Skyscraper Development with 3,950 Units Planned for 400-418 Eleventh Avenue in Hudson Yards, Manhattan",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/three-skyscraper-development-with-3950-units-planned-for-400-418-eleventh-avenue-in-hudson-yards-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Earthwork Underway For Manhattan Detention Center in Chinatown, Manhattan",
+          "category": "Engineering Principles",
+          "link": "https://newyorkyimby.com/2026/07/earthwork-underway-for-manhattan-detention-center-in-chinatown-manhattan.html",
+          "source": "newyorkyimby.com"
+        }
+      ]
     }
   ]
 }
