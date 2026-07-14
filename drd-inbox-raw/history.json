@@ -1103,6 +1103,29 @@
           "source": "newyorkyimby.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-14",
+      "articles": [
+        {
+          "title": "Blackstone JV Secures $950M CMBS Refinance for 41-Asset Industrial Portfolio",
+          "category": "Commercial Real Estate",
+          "link": "https://www.commercialsearch.com/news/blackstone-jv-to-secure-950m-for-industrial-portfolio/",
+          "source": "commercialsearch.com"
+        },
+        {
+          "title": "Rockpoint and Urby Form Joint Venture to Develop 69-Story Waterfront Apartment Tower in Jersey City",
+          "category": "Real Estate Development",
+          "link": "https://www.prnewswire.com/news-releases/rockpoint-and-urby-form-joint-venture-to-develop-69-story-waterfront-apartment-tower-in-jersey-city-302820941.html",
+          "source": "prnewswire.com"
+        },
+        {
+          "title": "Foundation Work Begins on Micron's $100B New York Semiconductor Megafab — First Concrete Poured Ahead of Schedule",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63307-foundation-work-begins-on-microns-100b-new-york-semiconductor-megafab",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }

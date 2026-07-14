@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 14, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-14_digest.md)
+- **[Commercial Real Estate]** [Blackstone JV Secures $950M CMBS Refinance for 41-Asset Industrial Portfolio](https://www.commercialsearch.com/news/blackstone-jv-to-secure-950m-for-industrial-portfolio/) *(via commercialsearch.com)*
+- **[Real Estate Development]** [Rockpoint and Urby Form Joint Venture to Develop 69-Story Waterfront Apartment Tower in Jersey City](https://www.prnewswire.com/news-releases/rockpoint-and-urby-form-joint-venture-to-develop-69-story-waterfront-apartment-tower-in-jersey-city-302820941.html) *(via prnewswire.com)*
+- **[Engineering Principles]** [Foundation Work Begins on Micron's $100B New York Semiconductor Megafab — First Concrete Poured Ahead of Schedule](https://www.enr.com/articles/63307-foundation-work-begins-on-microns-100b-new-york-semiconductor-megafab) *(via enr.com)*
+
+
+
 ### 📅 [July 13, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-13_digest.md)
 - **[Artificial Intelligence]** [YC's Summer 2026 Cohort Floods Construction and Proptech with AI Back-Office Tools](https://www.marketscale.com/industries/engineering-and-construction/ycs-summer-2026-cohort-floods-construction-and-proptech-with-ai-back-office-tools) *(via marketscale.com)*
 - **[Real Estate Development]** [Three-Skyscraper Development with 3,950 Units Planned for 400-418 Eleventh Avenue in Hudson Yards, Manhattan](https://newyorkyimby.com/2026/07/three-skyscraper-development-with-3950-units-planned-for-400-418-eleventh-avenue-in-hudson-yards-manhattan.html) *(via newyorkyimby.com)*
