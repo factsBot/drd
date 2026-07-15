@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 15, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-15_digest.md)
+- **[Artificial Intelligence]** [Claude API & Platform Release Notes (July 14, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
+- **[Commercial Real Estate]** [Data-Center Fever For Real Estate Spreads to Adjacent Warehouses](https://www.bloomberg.com/news/articles/2026-07-07/tech-giants-data-center-fever-spreads-to-adjacent-warehouses) *(via bloomberg.com)*
+- **[Engineering Principles]** [US Semiconductor Labor Shortage Threatens Billions in Chip Factory Investments](https://www.bloomberg.com/news/articles/2026-07-07/semiconductor-worker-shortfall-endangers-us-chip-factory-revival) *(via bloomberg.com)*
+
+
+
 ### 📅 [July 14, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-14_digest.md)
 - **[Commercial Real Estate]** [Blackstone JV Secures $950M CMBS Refinance for 41-Asset Industrial Portfolio](https://www.commercialsearch.com/news/blackstone-jv-to-secure-950m-for-industrial-portfolio/) *(via commercialsearch.com)*
 - **[Real Estate Development]** [Rockpoint and Urby Form Joint Venture to Develop 69-Story Waterfront Apartment Tower in Jersey City](https://www.prnewswire.com/news-releases/rockpoint-and-urby-form-joint-venture-to-develop-69-story-waterfront-apartment-tower-in-jersey-city-302820941.html) *(via prnewswire.com)*

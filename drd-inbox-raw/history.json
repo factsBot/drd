@@ -1126,6 +1126,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-15",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (July 14, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Data-Center Fever For Real Estate Spreads to Adjacent Warehouses",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/tech-giants-data-center-fever-spreads-to-adjacent-warehouses",
+          "source": "bloomberg.com"
+        },
+        {
+          "title": "US Semiconductor Labor Shortage Threatens Billions in Chip Factory Investments",
+          "category": "Engineering Principles",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/semiconductor-worker-shortfall-endangers-us-chip-factory-revival",
+          "source": "bloomberg.com"
+        }
+      ]
     }
   ]
 }
