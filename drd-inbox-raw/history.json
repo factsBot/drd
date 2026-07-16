@@ -1149,6 +1149,29 @@
           "source": "bloomberg.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-16",
+      "articles": [
+        {
+          "title": "N.Y. Governor Signs First Statewide Data Center Moratorium, Halting $10B Of Development",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bisnow.com/new-york/news/data-center-development/kathy-hochul-new-york-data-center-moratorium-executive-order-135406",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "Insurers Offer Discounts for Using Site Monitoring Tech to Reduce Risk",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63217-insurers-offer-discounts-for-using-site-monitoring-tech-to-reduce-risk",
+          "source": "enr.com"
+        },
+        {
+          "title": "Brooklyn's Alafia Project Secures $217M in Construction Financing",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/07/redstone-bank-goldman-sachs-new-york-state-217m-alafia-project/",
+          "source": "commercialobserver.com"
+        }
+      ]
     }
   ]
 }

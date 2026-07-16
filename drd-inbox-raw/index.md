@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 16, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-16_digest.md)
+- **[Commercial Real Estate]** [N.Y. Governor Signs First Statewide Data Center Moratorium, Halting $10B Of Development](https://www.bisnow.com/new-york/news/data-center-development/kathy-hochul-new-york-data-center-moratorium-executive-order-135406) *(via bisnow.com)*
+- **[Artificial Intelligence]** [Insurers Offer Discounts for Using Site Monitoring Tech to Reduce Risk](https://www.enr.com/articles/63217-insurers-offer-discounts-for-using-site-monitoring-tech-to-reduce-risk) *(via enr.com)*
+- **[Real Estate Development]** [Brooklyn's Alafia Project Secures $217M in Construction Financing](https://commercialobserver.com/2026/07/redstone-bank-goldman-sachs-new-york-state-217m-alafia-project/) *(via commercialobserver.com)*
+
+
+
 ### 📅 [July 15, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-15_digest.md)
 - **[Artificial Intelligence]** [Claude API & Platform Release Notes (July 14, 2026)](https://platform.claude.com/docs/en/release-notes/overview) *(via anthropic.com)*
 - **[Commercial Real Estate]** [Data-Center Fever For Real Estate Spreads to Adjacent Warehouses](https://www.bloomberg.com/news/articles/2026-07-07/tech-giants-data-center-fever-spreads-to-adjacent-warehouses) *(via bloomberg.com)*
