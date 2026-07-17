@@ -1172,6 +1172,29 @@
           "source": "commercialobserver.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-17",
+      "articles": [
+        {
+          "title": "Hochul Selects Developers to Build 1,127 Housing Units in Hell's Kitchen",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/07/kathy-hochul-developers-housing-hells-kitchen-intrepid/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "Manhattan Office Leasing Sees Strongest Gains in 20 Years as AI Tenants Drive Surge",
+          "category": "Commercial Real Estate",
+          "link": "https://www.cnbc.com/2026/07/08/manhattan-office-leasing-gains.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "How Contractors Are Bidding Differently in 2026, Amid Tariffs and Labor Shortages",
+          "category": "Engineering Principles",
+          "link": "https://www.my-equipment.com/blog/2026/07/how-contractors-are-bidding-differently-in-2026-amid-tariffs-and-labor-shortages/",
+          "source": "My Equipment"
+        }
+      ]
     }
   ]
 }

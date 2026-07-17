@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 17, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-17_digest.md)
+- **[Real Estate Development]** [Hochul Selects Developers to Build 1,127 Housing Units in Hell's Kitchen](https://commercialobserver.com/2026/07/kathy-hochul-developers-housing-hells-kitchen-intrepid/) *(via Commercial Observer)*
+- **[Commercial Real Estate]** [Manhattan Office Leasing Sees Strongest Gains in 20 Years as AI Tenants Drive Surge](https://www.cnbc.com/2026/07/08/manhattan-office-leasing-gains.html) *(via CNBC)*
+- **[Engineering Principles]** [How Contractors Are Bidding Differently in 2026, Amid Tariffs and Labor Shortages](https://www.my-equipment.com/blog/2026/07/how-contractors-are-bidding-differently-in-2026-amid-tariffs-and-labor-shortages/) *(via My Equipment)*
+
+
+
 ### 📅 [July 16, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-16_digest.md)
 - **[Commercial Real Estate]** [N.Y. Governor Signs First Statewide Data Center Moratorium, Halting $10B Of Development](https://www.bisnow.com/new-york/news/data-center-development/kathy-hochul-new-york-data-center-moratorium-executive-order-135406) *(via bisnow.com)*
 - **[Artificial Intelligence]** [Insurers Offer Discounts for Using Site Monitoring Tech to Reduce Risk](https://www.enr.com/articles/63217-insurers-offer-discounts-for-using-site-monitoring-tech-to-reduce-risk) *(via enr.com)*
