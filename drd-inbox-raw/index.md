@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 18, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-18_digest.md)
+- **[Artificial Intelligence]** [AI Engineers and Testing: How Suffolk Adds AI to Its Jobsite Workflows](https://www.constructiondive.com/news/suffolk-jobsite-of-the-future-ai-engineers-testing/824243/) *(via constructiondive.com)*
+- **[Commercial Real Estate]** [Lincoln Property, J.P. Morgan Buy 962K SF Suburban Boston Office Campus For $61M](https://www.bisnow.com/boston/news/office/lincoln-property-buys-962k-sf-wakefield-office-campus-for-61m-135280) *(via bisnow.com)*
+- **[Real Estate Development]** [$220 Million Construction Loan Closes For Imperial Tower at 2966 John F. Kennedy Boulevard in Jersey City, New Jersey](https://newyorkyimby.com/2026/07/220-million-construction-loan-closes-for-imperial-tower-at-2966-john-f-kennedy-boulevard-in-jersey-city-new-jersey.html) *(via newyorkyimby.com)*
+
+
+
 ### 📅 [July 17, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-17_digest.md)
 - **[Real Estate Development]** [Hochul Selects Developers to Build 1,127 Housing Units in Hell's Kitchen](https://commercialobserver.com/2026/07/kathy-hochul-developers-housing-hells-kitchen-intrepid/) *(via Commercial Observer)*
 - **[Commercial Real Estate]** [Manhattan Office Leasing Sees Strongest Gains in 20 Years as AI Tenants Drive Surge](https://www.cnbc.com/2026/07/08/manhattan-office-leasing-gains.html) *(via CNBC)*

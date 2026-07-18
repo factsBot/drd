@@ -1195,6 +1195,29 @@
           "source": "My Equipment"
         }
       ]
+    },
+    {
+      "date": "2026-07-18",
+      "articles": [
+        {
+          "title": "AI Engineers and Testing: How Suffolk Adds AI to Its Jobsite Workflows",
+          "category": "Artificial Intelligence",
+          "link": "https://www.constructiondive.com/news/suffolk-jobsite-of-the-future-ai-engineers-testing/824243/",
+          "source": "constructiondive.com"
+        },
+        {
+          "title": "Lincoln Property, J.P. Morgan Buy 962K SF Suburban Boston Office Campus For $61M",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bisnow.com/boston/news/office/lincoln-property-buys-962k-sf-wakefield-office-campus-for-61m-135280",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "$220 Million Construction Loan Closes For Imperial Tower at 2966 John F. Kennedy Boulevard in Jersey City, New Jersey",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/220-million-construction-loan-closes-for-imperial-tower-at-2966-john-f-kennedy-boulevard-in-jersey-city-new-jersey.html",
+          "source": "newyorkyimby.com"
+        }
+      ]
     }
   ]
 }
