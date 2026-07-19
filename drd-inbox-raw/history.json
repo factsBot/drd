@@ -1218,6 +1218,29 @@
           "source": "newyorkyimby.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-19",
+      "articles": [
+        {
+          "title": "Arup Partners YJK to Launch AI Designer in Hong Kong to Advance AI-Enabled Structural Engineering",
+          "category": "Engineering Principles",
+          "link": "https://www.media-outreach.com/news/hong-kong/2026/07/15/476233/arup-partners-yjk-to-launch-ai-designer-in-hong-kong-to-advance-ai-enabled-structural-engineering/",
+          "source": "Media OutReach Newswire / Arup"
+        },
+        {
+          "title": "Airbnb Paid $81.5 Million for 281 Park Avenue South — The Only Building It Now Owns",
+          "category": "Commercial Real Estate",
+          "link": "https://skift.com/2026/07/09/airbnb-paid-81-million-for-a-building-in-nyc-the-only-one-it-now-owns/",
+          "source": "Skift"
+        },
+        {
+          "title": "S3 Capital Provides $24M Construction Loan for 109-Unit Mixed-Use Building in Philadelphia's Fishtown",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/07/s3-capital-ampere-capital-group-philadelphia-apartments/",
+          "source": "Commercial Observer"
+        }
+      ]
     }
   ]
 }

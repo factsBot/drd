@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 19, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-19_digest.md)
+- **[Engineering Principles]** [Arup Partners YJK to Launch AI Designer in Hong Kong to Advance AI-Enabled Structural Engineering](https://www.media-outreach.com/news/hong-kong/2026/07/15/476233/arup-partners-yjk-to-launch-ai-designer-in-hong-kong-to-advance-ai-enabled-structural-engineering/) *(via Media OutReach Newswire / Arup)*
+- **[Commercial Real Estate]** [Airbnb Paid $81.5 Million for 281 Park Avenue South — The Only Building It Now Owns](https://skift.com/2026/07/09/airbnb-paid-81-million-for-a-building-in-nyc-the-only-one-it-now-owns/) *(via Skift)*
+- **[Real Estate Development]** [S3 Capital Provides $24M Construction Loan for 109-Unit Mixed-Use Building in Philadelphia's Fishtown](https://commercialobserver.com/2026/07/s3-capital-ampere-capital-group-philadelphia-apartments/) *(via Commercial Observer)*
+
+
+
 ### 📅 [July 18, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-18_digest.md)
 - **[Artificial Intelligence]** [AI Engineers and Testing: How Suffolk Adds AI to Its Jobsite Workflows](https://www.constructiondive.com/news/suffolk-jobsite-of-the-future-ai-engineers-testing/824243/) *(via constructiondive.com)*
 - **[Commercial Real Estate]** [Lincoln Property, J.P. Morgan Buy 962K SF Suburban Boston Office Campus For $61M](https://www.bisnow.com/boston/news/office/lincoln-property-buys-962k-sf-wakefield-office-campus-for-61m-135280) *(via bisnow.com)*
