@@ -1241,6 +1241,29 @@
           "source": "Commercial Observer"
         }
       ]
+    },
+    {
+      "date": "2026-07-20",
+      "articles": [
+        {
+          "title": "Zillow Rentals Now Live as Connected App Inside Google Gemini — Agentic Property Search Goes Mainstream",
+          "category": "Artificial Intelligence",
+          "link": "https://www.inman.com/2026/07/09/zillow-apartments-rentals-google-gemini-integration/",
+          "source": "inman.com"
+        },
+        {
+          "title": "NAIOP Rebrands to the Commercial Real Estate Development Association (CREDA) — Industry's Largest CRE Trade Group Signals a New Era",
+          "category": "Commercial Real Estate",
+          "link": "https://www.housingwire.com/articles/naiop-rebrands-creda/",
+          "source": "housingwire.com"
+        },
+        {
+          "title": "FRA Study: Replacing 115 Columns + Extending 3 Platforms Would Boost Penn Station Capacity 33% — Structural Engineering Scope Unprecedented in Active U.S. Rail",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63327-fra-proposal-would-replace-115-columns-to-unlock-penn-station-capacity",
+          "source": "enr.com"
+        }
+      ]
     }
   ]
 }

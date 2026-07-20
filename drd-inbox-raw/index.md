@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 20, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-20_digest.md)
+- **[Artificial Intelligence]** [Zillow Rentals Now Live as Connected App Inside Google Gemini — Agentic Property Search Goes Mainstream](https://www.inman.com/2026/07/09/zillow-apartments-rentals-google-gemini-integration/) *(via inman.com)*
+- **[Commercial Real Estate]** [NAIOP Rebrands to the Commercial Real Estate Development Association (CREDA) — Industry's Largest CRE Trade Group Signals a New Era](https://www.housingwire.com/articles/naiop-rebrands-creda/) *(via housingwire.com)*
+- **[Engineering Principles]** [FRA Study: Replacing 115 Columns + Extending 3 Platforms Would Boost Penn Station Capacity 33% — Structural Engineering Scope Unprecedented in Active U.S. Rail](https://www.enr.com/articles/63327-fra-proposal-would-replace-115-columns-to-unlock-penn-station-capacity) *(via enr.com)*
+
+
+
 ### 📅 [July 19, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-19_digest.md)
 - **[Engineering Principles]** [Arup Partners YJK to Launch AI Designer in Hong Kong to Advance AI-Enabled Structural Engineering](https://www.media-outreach.com/news/hong-kong/2026/07/15/476233/arup-partners-yjk-to-launch-ai-designer-in-hong-kong-to-advance-ai-enabled-structural-engineering/) *(via Media OutReach Newswire / Arup)*
 - **[Commercial Real Estate]** [Airbnb Paid $81.5 Million for 281 Park Avenue South — The Only Building It Now Owns](https://skift.com/2026/07/09/airbnb-paid-81-million-for-a-building-in-nyc-the-only-one-it-now-owns/) *(via Skift)*
