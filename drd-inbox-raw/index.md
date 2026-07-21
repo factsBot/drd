@@ -5,6 +5,13 @@ Welcome to your personal learning and industry intelligence repository. Below is
 
 ## Daily Digests Archive
 
+### 📅 [July 21, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-21_digest.md)
+- **[Artificial Intelligence]** [Zenerate Announces Partnership with AvalonBay Communities to Support Early-Stage Multifamily Feasibility Analysis](https://www.prnewswire.com/news-releases/zenerate-announces-partnership-with-avalonbay-communities-to-support-early-stage-multifamily-feasibility-analysis-302812861.html) *(via prnewswire.com)*
+- **[Engineering Principles]** [What California's 2026 Building Code Changes Mean for Structural Engineering](https://iseengineers.com/what-californias-2026-building-code-changes-mean-for-structural-engineering/) *(via iseengineers.com)*
+- **[Real Estate Development]** [Governor Sherrill Announces Bold Action to Expand Housing Supply and Lower Costs Across New Jersey](https://www.nj.gov/governor/news/2026/20260624a.shtml) *(via nj.gov)*
+
+
+
 ### 📅 [July 20, 2026](file:////home/user/drd/drd-inbox-raw/2026-07-20_digest.md)
 - **[Artificial Intelligence]** [Zillow Rentals Now Live as Connected App Inside Google Gemini — Agentic Property Search Goes Mainstream](https://www.inman.com/2026/07/09/zillow-apartments-rentals-google-gemini-integration/) *(via inman.com)*
 - **[Commercial Real Estate]** [NAIOP Rebrands to the Commercial Real Estate Development Association (CREDA) — Industry's Largest CRE Trade Group Signals a New Era](https://www.housingwire.com/articles/naiop-rebrands-creda/) *(via housingwire.com)*

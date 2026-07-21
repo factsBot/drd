@@ -1264,6 +1264,29 @@
           "source": "enr.com"
         }
       ]
+    },
+    {
+      "date": "2026-07-21",
+      "articles": [
+        {
+          "title": "Zenerate Announces Partnership with AvalonBay Communities to Support Early-Stage Multifamily Feasibility Analysis",
+          "category": "Artificial Intelligence",
+          "link": "https://www.prnewswire.com/news-releases/zenerate-announces-partnership-with-avalonbay-communities-to-support-early-stage-multifamily-feasibility-analysis-302812861.html",
+          "source": "prnewswire.com"
+        },
+        {
+          "title": "What California's 2026 Building Code Changes Mean for Structural Engineering",
+          "category": "Engineering Principles",
+          "link": "https://iseengineers.com/what-californias-2026-building-code-changes-mean-for-structural-engineering/",
+          "source": "iseengineers.com"
+        },
+        {
+          "title": "Governor Sherrill Announces Bold Action to Expand Housing Supply and Lower Costs Across New Jersey",
+          "category": "Real Estate Development",
+          "link": "https://www.nj.gov/governor/news/2026/20260624a.shtml",
+          "source": "nj.gov"
+        }
+      ]
     }
   ]
 }
