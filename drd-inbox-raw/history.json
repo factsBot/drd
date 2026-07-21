@@ -68,6 +68,1225 @@
           "source": "techxplore.com"
         }
       ]
+    },
+    {
+      "date": "2026-05-30",
+      "articles": [
+        {
+          "title": "NYC Developers File Plans for 21M SF of New Construction in Q1: REBNY",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/05/nyc-developers-building-construction-q1-rebny/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Anthropic Releases Claude Opus 4.8 with New 'Dynamic Workflow' Tool",
+          "category": "Artificial Intelligence",
+          "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+          "source": "techcrunch.com"
+        },
+        {
+          "title": "1Q 2026 Cost Report: Tariffs Contributed to Price Hikes for Many Materials in 2025",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/62734-1q-2026-cost-report-tariffs-contributed-to-price-hikes-for-many-materials-in-2025",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "articles": [
+        {
+          "title": "Manhattan Office Leasing Roars Back in Q1 2026, Fueled by AI and Mega Deals",
+          "category": "Commercial Real Estate",
+          "link": "https://nyrej.com/manhattan-office-leasing-roars-back-in-q1-2026-fueled-by-ai-and-mega-deals-according-to-jll-office-leasing-research",
+          "source": "nyrej.com / JLL Research"
+        },
+        {
+          "title": "NYC Developers File Plans for 21M SF of New Construction in Q1: REBNY",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/05/nyc-developers-building-construction-q1-rebny/",
+          "source": "commercialobserver.com / REBNY"
+        },
+        {
+          "title": "Why AECOM Acquired Norwegian AI Startup Consigli—Visionary Deal or Part of the Hype Cycle?",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/62754-why-aecom-acquired-consigli-visionary-ai-acquistion-or-part-of-the-hype-cycle",
+          "source": "Engineering News-Record (ENR)"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "articles": [
+        {
+          "title": "Mayor Mamdani Releases 'Block by Block: The Housing Plan for A New Era'",
+          "category": "Real Estate Development",
+          "link": "https://www.nyc.gov/mayors-office/news/2026/05/mayor-mamdani-releases--block-by-block--the-housing-plan-for-a-n",
+          "source": "nyc.gov"
+        },
+        {
+          "title": "Law Firm Willkie Farr & Gallagher Expands to 368K SF at 787 Seventh Avenue",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/05/willkie-farr-gallagher-lease-expansion-787-seventh-avenue/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Trimble to Acquire Document Crunch to Add AI-Powered Risk Management and Document Compliance to Construction One",
+          "category": "Engineering Principles",
+          "link": "https://news.trimble.com/2026-04-02-Trimble-to-Acquire-Document-Crunch-to-Add-AI-Powered-Risk-Management-and-Document-Compliance-to-Trimble-Construction-One-Project-Delivery-Ecosystem",
+          "source": "trimble.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 2, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Manhattan Office Market On Pace For Best Year Since 2000",
+          "category": "Commercial Real Estate",
+          "link": "https://therealdeal.com/new-york/2026/06/01/manhattan-office-market-on-pace-for-best-year-since-2000/",
+          "source": "therealdeal.com"
+        },
+        {
+          "title": "Advances in Modern Structural Engineering: From Materials to Building Structures",
+          "category": "Engineering Principles",
+          "link": "https://doi.org/10.3390/buildings16051080",
+          "source": "mdpi.com (Buildings journal)"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 2, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "AI Firms Are Flooding Manhattan Offices — NYC Leasing Up 152% as Vacancies Vanish",
+          "category": "Commercial Real Estate",
+          "link": "https://nyweekly.com/business/ai-firms-are-flooding-manhattan-offices-nyc-leasing-up-152-as-vacancies-vanish/",
+          "source": "nyweekly.com"
+        },
+        {
+          "title": "Why 2026 Will Be a Critical Year for Physical AI in Construction",
+          "category": "Engineering Principles",
+          "link": "https://www.equipmentjournal.com/tech-news/why-2026-will-be-a-critical-year-for-physical-ai-in-construction/amp/",
+          "source": "equipmentjournal.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "articles": [
+        {
+          "title": "Robotically Assembled Building Blocks Could Make Construction More Efficient and Sustainable",
+          "category": "Engineering Principles",
+          "link": "https://news.mit.edu/2026/robotically-assembled-building-blocks-makes-construction-more-efficient-and-sustainable-0428",
+          "source": "news.mit.edu"
+        },
+        {
+          "title": "Governor Hochul Announces Groundbreaking for $278 Million Affordable Development in Queens, Expanding Homeownership in Far Rockaway",
+          "category": "Real Estate Development",
+          "link": "https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-278-million-affordable-development-queens-expanding",
+          "source": "governor.ny.gov"
+        },
+        {
+          "title": "Data Centers Are Commercial Real Estate's Jewel for 2026: AI Demand Drives Record Backlogs and Capital Reallocation",
+          "category": "Commercial Real Estate",
+          "link": "https://www.datacenterknowledge.com/data-center-site-selection/with-all-eyes-on-ai-data-centers-are-commercial-real-estate-s-jewel-for-2026",
+          "source": "datacenterknowledge.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 2, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Pfizer HQ Office-to-Residential Conversion Progresses at 219-229 East 42nd Street, Midtown East",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/pfizer-hqs-residential-conversion-expansion-progresses-at-219-229-east-42nd-street-in-midtown-east-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "WPI Engineers Develop Carbon-Negative Enzymatic Structural Material (ESM) That Sequesters CO2",
+          "category": "Engineering Principles",
+          "link": "https://www.wpi.edu/news/carbon-negative-building-material-developed-worcester-polytechnic-institute-published-matter",
+          "source": "wpi.edu"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 5, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "The Data Drop: In a pricey world, NYC's builders pivot to redevelopments",
+          "category": "Real Estate Development",
+          "link": "https://therealdeal.com/national/2026/06/05/nyc-builders-pivot-to-redevelopments-amid-high-costs/",
+          "source": "therealdeal.com"
+        },
+        {
+          "title": "Banks Get Back Into Commercial Real Estate Lending",
+          "category": "Commercial Real Estate",
+          "link": "https://therealdeal.com/new-york/2026/05/29/banks-get-back-into-commercial-real-estate-lending/",
+          "source": "therealdeal.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "articles": [
+        {
+          "title": "New York's 2026 Enacted Budget Advances SEQRA Reforms, Promoting Housing Construction and Streamlining Environmental Review Timelines",
+          "category": "Real Estate Development",
+          "link": "https://natlawreview.com/article/new-yorks-2026-enacted-budget-advances-seqra-reforms-promoting-housing-construction",
+          "source": "natlawreview.com"
+        },
+        {
+          "title": "NYC Greenlights Largest Rezoning Effort in Two Decades",
+          "category": "Commercial Real Estate",
+          "link": "https://www.credaily.com/newsletters/nyc-greenlights-largest-rezoning-effort-in-two-decades/",
+          "source": "credaily.com"
+        },
+        {
+          "title": "Construction AI Adoption 2026: Usage Doubles as Firms Embrace Smart Tools",
+          "category": "Artificial Intelligence",
+          "link": "https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites",
+          "source": "constructionowners.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "articles": [
+        {
+          "title": "More Housing, No Gentrification: How Rezoning Gave East New York a New Start",
+          "category": "Real Estate Development",
+          "link": "https://www.thecityreporter.nyc/2026/06/02/affordable-housing-east-new-york-zoning-brooklyn/",
+          "source": "The City Reporter (NYC News)"
+        },
+        {
+          "title": "Gravis Robotics Launches Gravis Copilot at CONEXPO 2026: First Commercially Available Autonomous Excavator Platform Enters US Market",
+          "category": "Engineering Principles",
+          "link": "https://www.equipmentjournal.com/tech-news/gravis-robotics-brings-physical-ai-to-earthmoving/",
+          "source": "Equipment Journal / Robotics & Automation News"
+        },
+        {
+          "title": "Commercial Real Estate Lending Activity Reaches Five-Year High: CBRE Lending Momentum Index Climbs to 1.5",
+          "category": "Commercial Real Estate",
+          "link": "https://www.cbre.com/press-releases/commercial-real-estate-lending-activity-reaches-five-year-high-cbre",
+          "source": "CBRE"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "articles": [
+        {
+          "title": "NYC On The Verge Of A Construction Boom As Permit Filings Spike",
+          "category": "Real Estate Development",
+          "link": "https://www.bisnow.com/new-york/news/construction-development/nyc-construction-housing-q1-2026-building-permits-rebny-134705",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "Manhattan Office Leasing Roars Back in Q1 2026, Fueled by AI and Mega-Deals",
+          "category": "Commercial Real Estate",
+          "link": "https://nyrej.com/manhattan-office-leasing-roars-back-in-q1-2026-fueled-by-ai-and-mega-deals-according-to-jll-office-leasing-research",
+          "source": "nyrej.com / JLL Research"
+        },
+        {
+          "title": "2026 Engineering and Construction Industry Outlook",
+          "category": "Engineering Principles",
+          "link": "https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html",
+          "source": "Deloitte Insights"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 9, 2026) — Fable 5, Mythos 5, and Managed Agents Scheduled Deployments",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "NYC On The Verge Of A Construction Boom As Permit Filings Spike 74% Year-Over-Year In Q1 2026",
+          "category": "Real Estate Development",
+          "link": "https://www.bisnow.com/new-york/news/construction-development/nyc-construction-housing-q1-2026-building-permits-rebny-134705",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "Advances in Modern Structural Engineering: From Materials to Building Structures (Peer-Reviewed, 2026)",
+          "category": "Engineering Principles",
+          "link": "https://doi.org/10.3390/buildings16051080",
+          "source": "buildings (MDPI)"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "articles": [
+        {
+          "title": "SL Green and Mori Building Co., Ltd. Form Joint Venture for New Development at 346 Madison Avenue",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/05/sl-green-346-madison-mori-new-tower/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Enterprise Software Leaders Build AI Agents With NVIDIA — NemoClaw Framework and Agent Toolkit Launch at GTC Taipei",
+          "category": "Artificial Intelligence",
+          "link": "https://nvidianews.nvidia.com/news/enterprise-software-leaders-build-ai-agents-with-nvidia",
+          "source": "nvidianews.nvidia.com"
+        },
+        {
+          "title": "Meta Makes $115M Bet on Construction Craft Labor Pipeline for AI Data Centers",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63124-meta-makes-115m-bet-on-construction-craft-labor-pipeline-for-ai-data-centers",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "articles": [
+        {
+          "title": "Olmstead Buys 19 West 44th Street From Savanna at a 45% Haircut",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/olmstead-19-west-44th-street-savanna-manhattan-office-building/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "How Big Upzonings Affect Housing Supply: Urban Institute Study Quantifies 4,000 Additional Units in NYC, 4,000 Extra Permits/Year in Philadelphia",
+          "category": "Real Estate Development",
+          "link": "https://www.urban.org/research/publication/how-big-upzonings-affect-housing-supply",
+          "source": "Urban Institute / Smart Cities Dive"
+        },
+        {
+          "title": "Buildroid AI Brings Simulation-First Bricklaying Robots to US Jobsites: 6× Masonry Productivity, 80% Automation via Nvidia Omniverse Digital Twins",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/62176-robotics-start-up-buildroid-ai-to-bring-model-based-automated-bricklaying-to-us-jobsites",
+          "source": "Engineering News-Record (ENR)"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "articles": [
+        {
+          "title": "Forget Tech — Law Firms Are Driving Manhattan Office Leasing",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/law-firms-manhattan-office-leasing/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "Construction Platforms Are Already Fighting Over Data to Train AI Agents",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63122-construction-platforms-are-already-fighting-over-data-to-train-ai-agents",
+          "source": "Engineering News-Record"
+        },
+        {
+          "title": "Construction Materials Prices Jump 2.6% in May, Up Nearly 10% Year Over Year",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63148-construction-materials-prices-jump-26-in-may-up-nearly-10-year-over-year",
+          "source": "Engineering News-Record"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-14",
+      "articles": [
+        {
+          "title": "421‑a(16) Projects Without LOI Must Complete by June 15, 2026",
+          "category": "Real Estate Development",
+          "link": "https://bbgllp.com/new/421a-16-completion-deadline/",
+          "source": "BBG (Bisceglie + Burns Group)"
+        },
+        {
+          "title": "Document Crunch Launches Construction’s First Project-Level AI Risk Intelligence Platform",
+          "category": "Artificial Intelligence",
+          "link": "https://news.trimble.com/2026-06-09-Document-Crunch-Launches-Constructions-First-Project-Level-AI-Risk-Intelligence-Platform",
+          "source": "Trimble (news.trimble.com)"
+        },
+        {
+          "title": "5 Construction Innovations to Watch in 2026: 3D Printing, Biochar Concrete, and Net-Zero Materials at Commercial Scale",
+          "category": "Engineering Principles",
+          "link": "https://www.holcim.com/who-we-are/our-stories/construction-innovations-in-2026",
+          "source": "Holcim"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "articles": [
+        {
+          "title": "There's Been a Big Shift in the Commercial Real Estate Capital Markets",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/shift-commercial-real-estate-capital-markets-credit/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "Bechtel Award Advances Micron $100B New York Megafab Toward First Construction",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63140-bechtel-award-advances-micron-100b-new-york-megafab-toward-first-construction",
+          "source": "Engineering News-Record (ENR)"
+        },
+        {
+          "title": "Procore Turns the Common Data Environment Into a Launchpad for Agentic AI",
+          "category": "Artificial Intelligence",
+          "link": "https://aecmag.com/collaboration/procore-cde-lays-foundation-for-agentic-ai/",
+          "source": "AEC Magazine"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "articles": [
+        {
+          "title": "Ongoing Office-To-Residential Conversions to Bring Nearly 3,000 New Units to Manhattan",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/ongoing-office-to-residential-conversions-to-bring-nearly-3000-new-units-to-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "North America's First Timber Gridshell Debuts in Georgia Ahead of World Cup",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63044-north-americas-first-timber-gridshell-debuts-in-georgia-ahead-of-world-cup",
+          "source": "enr.com"
+        },
+        {
+          "title": "Data Center Investment in 2026: AI Demand, Power Constraints, and Private Equity Trends",
+          "category": "Commercial Real Estate",
+          "link": "https://www.ropesgray.com/en/insights/viewpoints/102mvfl/data-center-investment-in-2026-ai-demand-power-constraints-and-private-equity",
+          "source": "ropesgray.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "articles": [
+        {
+          "title": "River Avenue Apartments II Breaks Ground in The Bronx: $225M, 292-Unit Affordable & Supportive Housing Development",
+          "category": "Real Estate Development",
+          "link": "https://hcr.ny.gov/news/governor-hochul-announces-groundbreaking-225m-affordable-housing-development-bronx",
+          "source": "NYS Homes and Community Renewal (HCR)"
+        },
+        {
+          "title": "NYC Residential Rental Market Report: May 2026 — Manhattan Median Rent Hits All-Time High of $5,125",
+          "category": "Commercial Real Estate",
+          "link": "https://inhabit.corcoran.com/nyc-residential-rental-market-report-may-2026/",
+          "source": "Corcoran Group / Inhabit"
+        },
+        {
+          "title": "Newforma Launches Vojo AI Assistant and Open Ecosystem Strategy at Newforma World 2026",
+          "category": "Artificial Intelligence",
+          "link": "https://www.prnewswire.com/news-releases/newforma-announces-ai-powered-innovations-and-open-ecosystem-strategy-at-newforma-world-2026-302765799.html",
+          "source": "Newforma / PR Newswire"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "articles": [
+        {
+          "title": "LPC Approves Revised Plans for 420-Foot Mixed-Use Tower at 188 Duffield Street in Downtown Brooklyn",
+          "category": "Real Estate Development",
+          "link": "https://brooklyneagle.com/395507/lpc-approves-revised-plan-for-420-foot-tower/",
+          "source": "brooklyneagle.com"
+        },
+        {
+          "title": "2Q 2026 Cost Report: Construction Exec Confidence Unchanged Despite Iran Conflict",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63183-2q-2026-cost-report-construction-exec-confidence-unchanged-despite-iran-conflict",
+          "source": "enr.com"
+        },
+        {
+          "title": "Claude API & Platform Release Notes (June 15, 2026): Claude Sonnet 4 and Opus 4 Retired — Hard Migration to 4.6/4.8",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "articles": [
+        {
+          "title": "BXP Executes 150,000 Square Foot Lease with McDermott Will & Schulte at 343 Madison Avenue",
+          "category": "Commercial Real Estate",
+          "link": "https://www.businesswire.com/news/home/20260616939299/en/BXP-Executes-150000-Square-Foot-Lease-with-McDermott-Will-Schulte-at-343-Madison-Avenue",
+          "source": "businesswire.com"
+        },
+        {
+          "title": "Hoboken Connect Mixed-Use Development Takes Shape: Hudson Place Public Plaza Opens as First Phase of Transit-Hub Redevelopment",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/hoboken-connect-mixed-use-development-takes-shape-in-hoboken-new-jersey.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Y Combinator's 2026 Real Estate and Construction Cohort Bets Big on AI Agents and Construction Intelligence",
+          "category": "Artificial Intelligence",
+          "link": "https://www.marketscale.com/industries/engineering-and-construction/y-combinators-2026-real-estate-and-construction-cohort-bets-big-on-ai-agents-and-construction-intelligence",
+          "source": "marketscale.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "articles": [
+        {
+          "title": "Real Estate: Market Pulse (June 2026)",
+          "category": "Commercial Real Estate",
+          "link": "https://www.seyfarth.com/news-insights/real-estate-market-pulse-june-2026.html",
+          "source": "seyfarth.com"
+        },
+        {
+          "title": "New Jersey Housing Boom 2026: Central Jersey Rail Towns Lead Multifamily Growth",
+          "category": "Real Estate Development",
+          "link": "https://www.constructionowners.com/news/central-jersey-rail-towns-drive-new-jersey-housing-boom-as-multifamily-development-surges",
+          "source": "constructionowners.com"
+        },
+        {
+          "title": "All-Electric Buildings Act Takes Effect Across NY in 2026: Key Compliance Rules for Developers and Engineers",
+          "category": "Engineering Principles",
+          "link": "https://www.urbangreencouncil.org/decoding-new-york-states-all-electric-new-buildings-law/",
+          "source": "urbangreencouncil.org"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "articles": [
+        {
+          "title": "NYC's Trophy Towers Are Leasing Before They're Built",
+          "category": "Commercial Real Estate",
+          "link": "https://www.credaily.com/newsletters/new-york/issue/nycs-trophy-towers-are-leasing-before-theyre-built/",
+          "source": "CRE Daily (credaily.com)"
+        },
+        {
+          "title": "Boston Multifamily Transaction Activity Accelerates",
+          "category": "Real Estate Development",
+          "link": "https://www.northmarq.com/insights/insights/boston-multifamily-transaction-activity-accelerates-q1-2026",
+          "source": "Northmarq"
+        },
+        {
+          "title": "Bluebeam Releases Max Capabilities, Expands Revu",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63085-bluebeam-releases-max-capabilities-expands-revu",
+          "source": "Engineering News-Record (ENR)"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "articles": [
+        {
+          "title": "Trunk Tools Launches Cortex to Tackle Construction's Hardest AI Problem: Drawings",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63178-trunk-tools-launches-cortex-ai-platform-to-interpret-construction-drawings",
+          "source": "enr.com"
+        },
+        {
+          "title": "Greystar and University of Pennsylvania Close on 493-Bed Graduate Housing Re-Development Project on Penn Campus",
+          "category": "Real Estate Development",
+          "link": "https://www.globenewswire.com/news-release/2026/06/03/3306092/0/en/Greystar-and-University-of-Pennsylvania-Close-on-493-Bed-Student-Housing-Re-Development-Project-on-Penn-Campus.html",
+          "source": "globenewswire.com"
+        },
+        {
+          "title": "Top 400 Contractors Hit Craft Ceiling as AI Boom Strains Skilled Labor Resources",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63029-top-400-contractors-hit-craft-ceiling-as-ai-boom-strains-skilled-labor-resources",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "articles": [
+        {
+          "title": "Yellowstone Nabs $480M Construction Loan for 1740 Broadway Office-to-Resi Conversion",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/madison-realty-capital-1740-broadway-manhattan-office-to-residential-conversion/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Arverne East Building D Breaks Ground: $278M Affordable Net-Zero Community in Far Rockaway",
+          "category": "Real Estate Development",
+          "link": "https://hcr.ny.gov/news/governor-hochul-announces-groundbreaking-278-million-affordable-development-queens-expanding",
+          "source": "hcr.ny.gov"
+        },
+        {
+          "title": "Preparing for New Energy Code Requirements in New York City: 2025 NYCECC Now in Effect",
+          "category": "Engineering Principles",
+          "link": "https://www.sgh.com/insight/preparing-for-new-energy-code-requirements-in-new-york-city/",
+          "source": "sgh.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "articles": [
+        {
+          "title": "McCarthy and Palantir Announce Strategic Partnership to Bring AI to the Construction Field",
+          "category": "Artificial Intelligence",
+          "link": "https://www.businesswire.com/news/home/20260604988849/en/McCarthy-and-Palantir-Announce-Strategic-Partnership-to-Bring-AI-to-the-Construction-Field-and-Beyond",
+          "source": "businesswire.com"
+        },
+        {
+          "title": "CRH to Acquire Arcosa for $8.5B — Building Materials Giant's Largest Deal Reshapes U.S. Aggregates Supply Chain",
+          "category": "Engineering Principles",
+          "link": "https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/",
+          "source": "crh.com"
+        },
+        {
+          "title": "AI Firms Are Flooding Manhattan Offices — NYC AI Office Leasing Surges as Vacancy Tightens to 13.5%",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bisnow.com/new-york/news/office/ai-companies-nyc-office-leasing-q1-2026-134012",
+          "source": "bisnow.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "articles": [
+        {
+          "title": "S3 Capital Lends $102M for Hell’s Kitchen Office-to-Resi Conversion",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/s3-capital-manhattan-office-to-resi-conversion/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Jersey City Planning Board Approves 47-Story, 1,049-Unit Mixed-Use Tower at 8-16 Lott Street in Journal Square",
+          "category": "Real Estate Development",
+          "link": "https://jerseydigs.com/8-10-lott-st-development-jersey-city/",
+          "source": "jerseydigs.com"
+        },
+        {
+          "title": "Construction Quality Startup Structured AI Raises $4.2M Seed Round, Partners with Syska Hennessy Group for AI-Powered MEP QA/QC",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63139-construction-quality-startup-structured-ai-raises-42m-seed-round",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "articles": [
+        {
+          "title": "AI Data Centers Become City-Scale Infrastructure, Prompting New Industry Playbook",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63177-ai-data-centers-become-city-scale-infrastructure-prompting-new-industry-playbook",
+          "source": "enr.com"
+        },
+        {
+          "title": "U.S. Office Market Report June 2026",
+          "category": "Commercial Real Estate",
+          "link": "https://www.commercialcafe.com/blog/national-office-report/",
+          "source": "commercialcafe.com"
+        },
+        {
+          "title": "Renderings Reveal Phase One Of Hoboken Housing Authority Redevelopment in Hoboken, New Jersey",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/renderings-reveal-phase-one-of-hoboken-housing-authority-redevelopment-in-hoboken-new-jersey.html",
+          "source": "newyorkyimby.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (June 26, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Charney, Tavros, and Incoco Close $785M Construction Capitalization for 175 Third Street — Gowanus Wharf's Largest Building",
+          "category": "Real Estate Development",
+          "link": "https://www.bisnow.com/new-york/news/multifamily/charney-tavros-score-785m-construction-financing-for-gowanus-largest-resi-building-135181",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "John Deere Bets Connected Roadbuilding Is Its Next Competitive Advantage",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63224-john-deere-bets-connected-roadbuilding-is-its-next-competitive-advantage",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "articles": [
+        {
+          "title": "NYC Board of Education Retirement System Signs 30-Year, 78K SF Lease at 55 Water Street",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/nyc-education-retirement-system-lease-55-water-street/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Unanet Releases 2026 AEC Inspire Report: AI Adoption Reaches 75% of Firms, But Data Confidence Lags at 29%",
+          "category": "Artificial Intelligence",
+          "link": "https://unanet.com/news/unanet-releases-2026-aec-inspire-report-revealing-ai-adoption-surge-while-data-confidence-lags",
+          "source": "unanet.com"
+        },
+        {
+          "title": "New Panama Canal Chief Takes on Next Wave of Megaprojects: $8.5B+ Capital Improvement Plan",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63214-new-panama-canal-chief-takes-on-next-wave-of-megaprojects",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "articles": [
+        {
+          "title": "2 Park Avenue Signs 165K SF of Office Leases",
+          "category": "Commercial Real Estate",
+          "link": "https://www.connectcre.com/stories/2-park-avenue-signs-165k-sf-of-office-leases/",
+          "source": "connectcre.com"
+        },
+        {
+          "title": "Coney Island III All-Affordable Building Tops Out At 1709 Surf Avenue in Coney Island, Brooklyn",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/coney-island-iii-all-affordable-building-tops-out-at-1709-surf-avenue-in-coney-island-brooklyn.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Scia Engineer 2026 Launches with ASCE 7-22 Wind Code Automation, 2nd-Gen Eurocode Compliance, and Advanced Vibration Analysis",
+          "category": "Engineering Principles",
+          "link": "https://aecmag.com/structural-engineering/scia-engineer-2026-launches/",
+          "source": "aecmag.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "articles": [
+        {
+          "title": "Law Firms and Manhattan Office Leasing: Why It's Way Up in 2026",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/06/law-firms-manhattan-office-leasing/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Rendering Reveals Tishman Speyer's 17-Story Edgemere Commons B2 — 300 Affordable Units in Far Rockaway, Queens",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/06/rendering-reveals-332-beach-52nd-street-at-edgemere-commons-in-far-rockaway-queens.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Buildots Launches Intelligence Lab, Construction's First AI-Powered Research Hub",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63235-buildots-launches-intelligence-lab-an-ai-powered-project-data-research-hub",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "articles": [
+        {
+          "title": "Claude Sonnet 5 Launches: 1M Token Context, New Tokenizer, Breaking API Changes (June 30, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Mayor Mamdani and NYC Health + Hospitals Break Ground on $255M River Commons: 328 Affordable Homes + First Integrated Healthcare-Residential on Hospital Property",
+          "category": "Real Estate Development",
+          "link": "https://www.nyc.gov/mayors-office/news/2026/06/mayor-mamdani-breaks-ground-on--255-million-river-commons-develo",
+          "source": "NYC Mayor's Office"
+        },
+        {
+          "title": "Construction Job Openings Hit 10-Month High at 298,000 — Data Center Electrician Demand Distorts Industry Labor Picture",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63246-construction-job-openings-reach-10-month-high",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "articles": [
+        {
+          "title": "Manhattan's Office Leasing at Velocity Not Seen Since 2002: Report",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/07/manhattan-office-leasing-q2-2026-report/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "New York YIMBY's 2026 First-Quarter Construction Report Tallies a Dramatic Increase in Development",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/05/new-york-yimbys-2026-first-quarter-construction-report-tallies-a-dramatic-increase-in-development.html",
+          "source": "New York YIMBY"
+        },
+        {
+          "title": "Revit 2027: A More Connected Way to Design — Autodesk Makes Revit Its First Forma Cloud Connected Client",
+          "category": "Engineering Principles",
+          "link": "https://www.autodesk.com/blogs/aec/2026/04/09/revit-2027-a-more-connected-way-to-design/",
+          "source": "Autodesk"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "articles": [
+        {
+          "title": "Homebuilding AI Raises $95M: Floor Plan Vision Tech Moves Into Lumber Supply Chain",
+          "category": "Artificial Intelligence",
+          "link": "https://www.techtimes.com/articles/319480/20260701/homebuilding-ai-raises-95m-floor-plan-vision-tech-moves-lumber-supply-chain.htm",
+          "source": "Tech Times"
+        },
+        {
+          "title": "Financing Package Secured For Sol On Park At 3728 Park Avenue",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/sol-on-park-affordable-senior-housing-project-secures-financing-at-3728-park-avenue-in-claremont-the-bronx.html",
+          "source": "New York YIMBY"
+        },
+        {
+          "title": "Construction Spending Inches Up Slightly in May",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63256-construction-spending-inches-up-slightly-in-may",
+          "source": "Engineering News-Record (ENR)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "articles": [
+        {
+          "title": "Rithm Capital Chips In $73M To Refinance Midtown Office Loan",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bisnow.com/new-york/news/office/rithm-chips-in-equity-to-score-415m-cmbs-loan-for-midtown-office-tower-135285",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "The Willow Breaks Ground At 1033 Willow Avenue In Hoboken",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/the-willow-affordable-senior-housing-project-breaks-ground-at-1033-willow-avenue-in-hoboken-new-jersey.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Suffolk Ventures, DPR Construction Invest in AI-Enabled Skilled Labor Platform Skillit",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63275-suffolk-ventures-dpr-construction-invest-in-ai-enabled-skilled-labor-platform-skillit",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "articles": [
+        {
+          "title": "Build Raises $8.5M Seed for AI-Driven Infrastructure Due Diligence Platform",
+          "category": "Artificial Intelligence",
+          "link": "https://aecmag.com/ai/build-raises-8-5m-seed-for-ai-driven-infrastructure-due-diligence-platform/",
+          "source": "aecmag.com"
+        },
+        {
+          "title": "The ENR Top 500 Review: AI Wave Raises Design Revenue, Jacobs Claims No. 1 Spot",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63274-the-enr-top-500-review-ai-wave-raises-design-revenue",
+          "source": "enr.com"
+        },
+        {
+          "title": "832-Foot Skyscraper Rises at 70 Hudson Yards in Manhattan — NYC’s First Zero-Carbon Office Tower",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/832-foot-skyscraper-rises-at-70-hudson-yards-in-hudson-yards-manhattan.html",
+          "source": "newyorkyimby.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "articles": [
+        {
+          "title": "Scarcity at the top sends New York office rents beyond $320 a square foot",
+          "category": "Commercial Real Estate",
+          "link": "https://www.costar.com/article/1857284394/scarcity-at-the-top-sends-new-york-office-rents-beyond-320-a-square-foot",
+          "source": "CoStar"
+        },
+        {
+          "title": "6 contech startups raise a combined $121M",
+          "category": "Artificial Intelligence",
+          "link": "https://www.constructiondive.com/news/contech-funding-robotics-ai-artificial-intelligence-venture-capital/821903/",
+          "source": "Construction Dive"
+        },
+        {
+          "title": "Construction Materials Prices Jump 2.6% in May, Up Nearly 10% Year Over Year",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63148-construction-materials-prices-jump-26-in-may-up-nearly-10-year-over-year",
+          "source": "ENR"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "articles": [
+        {
+          "title": "Starwood Capital Group Closes $10.2B Opportunistic Fund for Data Center Investment",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/07/starwood-capital-group-fund-data-center-investment/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Exclusive New Renderings Revealed for 262 Fifth Avenue in NoMad, Manhattan — 860-Foot Luxury Supertall Nears Completion",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/exclusive-new-renderings-revealed-for-262-fifth-avenue-in-nomad-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "ENR 2026 Top 400 Contractors: Revenue Hits $671.4B as AI Boom Drives Growth — But Craft Labor Ceiling Emerges as Critical Constraint",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63029-top-400-contractors-hit-craft-ceiling-as-ai-boom-strains-skilled-labor-resources",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "articles": [
+        {
+          "title": "Affinius Capital Supplies $180M for Jersey City Multifamily Tower",
+          "category": "Commercial Real Estate",
+          "link": "https://commercialobserver.com/2026/07/affinius-capital-namdar-group-80m-for-jersey-center-multifamily/",
+          "source": "commercialobserver.com"
+        },
+        {
+          "title": "Demolition Underway for 1,414-Foot Supertall at 350 Park Avenue in Midtown East, Manhattan",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/demolition-underway-for-1414-foot-supertall-at-350-park-avenue-in-midtown-east-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Nemetschek Group Completes $2.4B Acquisition of HCSS, Creating Largest Integrated Construction Software Platform",
+          "category": "Artificial Intelligence",
+          "link": "https://www.constructiondive.com/news/nemetschek-group-acquires-hcss-contech-merger-acquisition/817673/",
+          "source": "constructiondive.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "articles": [
+        {
+          "title": "Why The Collapse of the Pfizer Conversion Means It’s Time to Address the Leaning Tower of Lower Manhattan at 161 Maiden Lane",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/why-the-collapse-of-the-pfizer-conversion-means-its-time-to-address-the-leaning-tower-of-lower-manhattan-at-161-maiden-lane.html",
+          "source": "New York YIMBY"
+        },
+        {
+          "title": "The Agentic Future of BIM",
+          "category": "Engineering Principles",
+          "link": "https://aecmag.com/features/the-agentic-future-of-bim/",
+          "source": "AEC Magazine"
+        },
+        {
+          "title": "J.P. Morgan Analysis: Macroeconomic and Geopolitical Trends Shaping NYC Commercial Real Estate in 2026",
+          "category": "Commercial Real Estate",
+          "link": "https://www.landairnyc.com/articles/j-p-morgan-analysis-macroeconomic-and-geopolitical-trends-shaping-nyc-commercial-real-estate-in-2026",
+          "source": "LandAir NYC / J.P. Morgan"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "articles": [
+        {
+          "title": "Silverstein Properties Breaks Ground on 2 World Trade Center — American Express Sole Anchor in 1,226-Foot, 2M SF Privately Financed Tower",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/07/silverstein-properties-breaks-ground-2-world-trade-center/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "New REBNY Report Finds Manhattan Retail Momentum Extending Beyond Prime Corridors in First Half of 2026",
+          "category": "Commercial Real Estate",
+          "link": "https://www.rebny.com/press-release/new-rebny-report-finds-manhattan-retail-momentum-extending-beyond-prime-corridors-in-first-half-of-2026/",
+          "source": "REBNY"
+        },
+        {
+          "title": "World's Longest Immersed Tunnel Passes Milestone, But Faces Delays",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63168-worlds-longest-immersed-tunnel-passes-milestone-but-faces-delays",
+          "source": "Engineering News-Record"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "articles": [
+        {
+          "title": "Examining Manhattan's 13.0% Availability Rate — Q2 2026's Class B Recovery Changes the Office Narrative",
+          "category": "Commercial Real Estate",
+          "link": "https://knowledge-leader.colliers.com/brennan-yerman/examining-manhattans-13-0-availability-rate/",
+          "source": "colliers.com"
+        },
+        {
+          "title": "Claude API & Platform Release Notes (July 10, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Buildots Launches Superstructure Tracking, Extending AI Construction Intelligence into the Structural Phase",
+          "category": "Engineering Principles",
+          "link": "https://aecmag.com/structural-engineering/buildots-extends-ai-tracking-platform-into-superstructure-phase",
+          "source": "aecmag.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "articles": [
+        {
+          "title": "SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work",
+          "category": "Artificial Intelligence",
+          "link": "https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/",
+          "source": "marktechpost.com"
+        },
+        {
+          "title": "New York Apartment Construction Hits a 60-Year High",
+          "category": "Real Estate Development",
+          "link": "https://www.credaily.com/briefs/new-york-apartment-construction-hits-a-60-year-high/",
+          "source": "credaily.com"
+        },
+        {
+          "title": "2026 Engineering and Construction Industry Outlook: $124B at Risk as Labor Crisis Deepens",
+          "category": "Engineering Principles",
+          "link": "https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html",
+          "source": "deloitte.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "articles": [
+        {
+          "title": "YC's Summer 2026 Cohort Floods Construction and Proptech with AI Back-Office Tools",
+          "category": "Artificial Intelligence",
+          "link": "https://www.marketscale.com/industries/engineering-and-construction/ycs-summer-2026-cohort-floods-construction-and-proptech-with-ai-back-office-tools",
+          "source": "marketscale.com"
+        },
+        {
+          "title": "Three-Skyscraper Development with 3,950 Units Planned for 400-418 Eleventh Avenue in Hudson Yards, Manhattan",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/three-skyscraper-development-with-3950-units-planned-for-400-418-eleventh-avenue-in-hudson-yards-manhattan.html",
+          "source": "newyorkyimby.com"
+        },
+        {
+          "title": "Earthwork Underway For Manhattan Detention Center in Chinatown, Manhattan",
+          "category": "Engineering Principles",
+          "link": "https://newyorkyimby.com/2026/07/earthwork-underway-for-manhattan-detention-center-in-chinatown-manhattan.html",
+          "source": "newyorkyimby.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "articles": [
+        {
+          "title": "Blackstone JV Secures $950M CMBS Refinance for 41-Asset Industrial Portfolio",
+          "category": "Commercial Real Estate",
+          "link": "https://www.commercialsearch.com/news/blackstone-jv-to-secure-950m-for-industrial-portfolio/",
+          "source": "commercialsearch.com"
+        },
+        {
+          "title": "Rockpoint and Urby Form Joint Venture to Develop 69-Story Waterfront Apartment Tower in Jersey City",
+          "category": "Real Estate Development",
+          "link": "https://www.prnewswire.com/news-releases/rockpoint-and-urby-form-joint-venture-to-develop-69-story-waterfront-apartment-tower-in-jersey-city-302820941.html",
+          "source": "prnewswire.com"
+        },
+        {
+          "title": "Foundation Work Begins on Micron's $100B New York Semiconductor Megafab — First Concrete Poured Ahead of Schedule",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63307-foundation-work-begins-on-microns-100b-new-york-semiconductor-megafab",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "articles": [
+        {
+          "title": "Claude API & Platform Release Notes (July 14, 2026)",
+          "category": "Artificial Intelligence",
+          "link": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "Data-Center Fever For Real Estate Spreads to Adjacent Warehouses",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/tech-giants-data-center-fever-spreads-to-adjacent-warehouses",
+          "source": "bloomberg.com"
+        },
+        {
+          "title": "US Semiconductor Labor Shortage Threatens Billions in Chip Factory Investments",
+          "category": "Engineering Principles",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/semiconductor-worker-shortfall-endangers-us-chip-factory-revival",
+          "source": "bloomberg.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "articles": [
+        {
+          "title": "N.Y. Governor Signs First Statewide Data Center Moratorium, Halting $10B Of Development",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bisnow.com/new-york/news/data-center-development/kathy-hochul-new-york-data-center-moratorium-executive-order-135406",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "Insurers Offer Discounts for Using Site Monitoring Tech to Reduce Risk",
+          "category": "Artificial Intelligence",
+          "link": "https://www.enr.com/articles/63217-insurers-offer-discounts-for-using-site-monitoring-tech-to-reduce-risk",
+          "source": "enr.com"
+        },
+        {
+          "title": "Brooklyn's Alafia Project Secures $217M in Construction Financing",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/07/redstone-bank-goldman-sachs-new-york-state-217m-alafia-project/",
+          "source": "commercialobserver.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "articles": [
+        {
+          "title": "Hochul Selects Developers to Build 1,127 Housing Units in Hell's Kitchen",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/07/kathy-hochul-developers-housing-hells-kitchen-intrepid/",
+          "source": "Commercial Observer"
+        },
+        {
+          "title": "Manhattan Office Leasing Sees Strongest Gains in 20 Years as AI Tenants Drive Surge",
+          "category": "Commercial Real Estate",
+          "link": "https://www.cnbc.com/2026/07/08/manhattan-office-leasing-gains.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "How Contractors Are Bidding Differently in 2026, Amid Tariffs and Labor Shortages",
+          "category": "Engineering Principles",
+          "link": "https://www.my-equipment.com/blog/2026/07/how-contractors-are-bidding-differently-in-2026-amid-tariffs-and-labor-shortages/",
+          "source": "My Equipment"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "articles": [
+        {
+          "title": "AI Engineers and Testing: How Suffolk Adds AI to Its Jobsite Workflows",
+          "category": "Artificial Intelligence",
+          "link": "https://www.constructiondive.com/news/suffolk-jobsite-of-the-future-ai-engineers-testing/824243/",
+          "source": "constructiondive.com"
+        },
+        {
+          "title": "Lincoln Property, J.P. Morgan Buy 962K SF Suburban Boston Office Campus For $61M",
+          "category": "Commercial Real Estate",
+          "link": "https://www.bisnow.com/boston/news/office/lincoln-property-buys-962k-sf-wakefield-office-campus-for-61m-135280",
+          "source": "bisnow.com"
+        },
+        {
+          "title": "$220 Million Construction Loan Closes For Imperial Tower at 2966 John F. Kennedy Boulevard in Jersey City, New Jersey",
+          "category": "Real Estate Development",
+          "link": "https://newyorkyimby.com/2026/07/220-million-construction-loan-closes-for-imperial-tower-at-2966-john-f-kennedy-boulevard-in-jersey-city-new-jersey.html",
+          "source": "newyorkyimby.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "articles": [
+        {
+          "title": "Arup Partners YJK to Launch AI Designer in Hong Kong to Advance AI-Enabled Structural Engineering",
+          "category": "Engineering Principles",
+          "link": "https://www.media-outreach.com/news/hong-kong/2026/07/15/476233/arup-partners-yjk-to-launch-ai-designer-in-hong-kong-to-advance-ai-enabled-structural-engineering/",
+          "source": "Media OutReach Newswire / Arup"
+        },
+        {
+          "title": "Airbnb Paid $81.5 Million for 281 Park Avenue South — The Only Building It Now Owns",
+          "category": "Commercial Real Estate",
+          "link": "https://skift.com/2026/07/09/airbnb-paid-81-million-for-a-building-in-nyc-the-only-one-it-now-owns/",
+          "source": "Skift"
+        },
+        {
+          "title": "S3 Capital Provides $24M Construction Loan for 109-Unit Mixed-Use Building in Philadelphia's Fishtown",
+          "category": "Real Estate Development",
+          "link": "https://commercialobserver.com/2026/07/s3-capital-ampere-capital-group-philadelphia-apartments/",
+          "source": "Commercial Observer"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "articles": [
+        {
+          "title": "Zillow Rentals Now Live as Connected App Inside Google Gemini — Agentic Property Search Goes Mainstream",
+          "category": "Artificial Intelligence",
+          "link": "https://www.inman.com/2026/07/09/zillow-apartments-rentals-google-gemini-integration/",
+          "source": "inman.com"
+        },
+        {
+          "title": "NAIOP Rebrands to the Commercial Real Estate Development Association (CREDA) — Industry's Largest CRE Trade Group Signals a New Era",
+          "category": "Commercial Real Estate",
+          "link": "https://www.housingwire.com/articles/naiop-rebrands-creda/",
+          "source": "housingwire.com"
+        },
+        {
+          "title": "FRA Study: Replacing 115 Columns + Extending 3 Platforms Would Boost Penn Station Capacity 33% — Structural Engineering Scope Unprecedented in Active U.S. Rail",
+          "category": "Engineering Principles",
+          "link": "https://www.enr.com/articles/63327-fra-proposal-would-replace-115-columns-to-unlock-penn-station-capacity",
+          "source": "enr.com"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "articles": [
+        {
+          "title": "Zenerate Announces Partnership with AvalonBay Communities to Support Early-Stage Multifamily Feasibility Analysis",
+          "category": "Artificial Intelligence",
+          "link": "https://www.prnewswire.com/news-releases/zenerate-announces-partnership-with-avalonbay-communities-to-support-early-stage-multifamily-feasibility-analysis-302812861.html",
+          "source": "prnewswire.com"
+        },
+        {
+          "title": "What California's 2026 Building Code Changes Mean for Structural Engineering",
+          "category": "Engineering Principles",
+          "link": "https://iseengineers.com/what-californias-2026-building-code-changes-mean-for-structural-engineering/",
+          "source": "iseengineers.com"
+        },
+        {
+          "title": "Governor Sherrill Announces Bold Action to Expand Housing Supply and Lower Costs Across New Jersey",
+          "category": "Real Estate Development",
+          "link": "https://www.nj.gov/governor/news/2026/20260624a.shtml",
+          "source": "nj.gov"
+        }
+      ]
     }
   ]
 }

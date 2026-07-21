@@ -17,7 +17,6 @@ import xml.etree.ElementTree as ET
 import urllib3
 import requests
 from bs4 import BeautifulSoup
-import feedparser
 from dotenv import load_dotenv
 from google import genai
 import ssl
@@ -105,20 +104,34 @@ def clean_html(html_content):
     return text[:6000]  # Cap length for LLM context limits and speed
 
 def fetch_feed_articles(feed_url, category_name, max_articles=5):
-    """Fetch recent articles from an RSS feed."""
+    """Fetch recent articles from an RSS feed using requests + ElementTree (avoids sgmllib dependency)."""
     articles = []
     try:
         log(f"Fetching RSS: {feed_url}")
-        feed = feedparser.parse(feed_url)
-        for entry in feed.entries[:max_articles]:
-            title = entry.get("title", "")
-            link = entry.get("link", "")
-            summary = entry.get("summary", "") or entry.get("description", "")
-            published = entry.get("published", "") or entry.get("pubDate", "")
-            
-            # Clean summaries
+        response = requests.get(feed_url, headers=HEADERS, timeout=15, verify=False)
+        if response.status_code != 200:
+            log(f"RSS fetch failed (status {response.status_code}): {feed_url}")
+            return articles
+        root = ET.fromstring(response.content)
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
+        # Support both RSS 2.0 <item> and Atom <entry>
+        items = root.findall(".//item") or root.findall(".//atom:entry", ns) or root.findall(".//entry")
+        for item in items[:max_articles]:
+            def _text(tag, fallback=""):
+                el = item.find(tag) or item.find(f"atom:{tag}", ns)
+                if el is not None and el.text:
+                    return el.text.strip()
+                return fallback
+            title = _text("title")
+            link = _text("link")
+            # Atom feeds store href in <link> element attribute
+            if not link:
+                link_el = item.find("atom:link", ns) or item.find("link")
+                if link_el is not None:
+                    link = link_el.get("href", "") or (link_el.text or "")
+            summary = _text("description") or _text("summary") or _text("content")
+            published = _text("pubDate") or _text("published") or _text("updated")
             summary_clean = BeautifulSoup(summary, "html.parser").get_text() if summary else ""
-            
             if title and link:
                 articles.append({
                     "title": title,

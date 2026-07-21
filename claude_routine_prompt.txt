@@ -19,8 +19,11 @@ Follow this execution plan precisely:
 
 ### STEP 1: ENVIRONMENT SETUP
 1. Clean your git workspace: run `git reset --hard` and `git clean -fd` if needed to ensure a clean slate.
-2. Switch to/create a designated git branch prefixed with `claude/` to satisfy repository permissions:
-   - Run: `git checkout -b claude/daily-digest` or if it already exists, `git checkout claude/daily-digest` and pull the latest changes.
+2. Check out the canonical digest branch. This branch ALREADY EXISTS on the remote and contains the full digest archive — you MUST build on top of it, NEVER from main:
+   - Run: `git fetch origin claude/daily-digest`
+   - Run: `git checkout -B claude/daily-digest origin/claude/daily-digest`
+   - **MANDATORY VERIFICATION**: Run `ls drd-inbox-raw/` and confirm you see MULTIPLE dated digest files (at least 5, e.g. 2026-05-30_digest.md, 2026-06-02_digest.md...). If the fetch failed, or you see only one or two digest files, your base is STALE. In that case STOP IMMEDIATELY: do not generate, commit, or push anything. Output an error report explaining the fetch/checkout failure instead.
+   - NEVER create this branch fresh with `git checkout -b` from main. Main is an outdated snapshot and building on it destroys the archive continuity.
 3. Install the Python dependencies:
    - Run: `python -m pip install -r requirements.txt`
 
@@ -41,7 +44,12 @@ Select exactly THREE (3) total articles to feature in today's daily digest:
 1. **Analyze Diversity**:
    - Check `variety_counts`. Identify if any category has 0 coverage in the last 7 days.
    - **CRITICAL CONSTRAINT**: You MUST select at least one article from any category with 0 coverage in the last 7 days, provided a viable candidate exists in the candidate pool.
-2. **Qualitative Criteria**:
+2. **Story-level dedup (MANDATORY)**:
+   - The 7-day variety counter balances categories but does NOT prevent the same story returning under a different headline. This has happened in production: the same REBNY Q1 2026 permit-filings dataset shipped on four separate days, and the same JLL Manhattan-leasing article (identical URL) shipped twice nine days apart.
+   - Before finalizing any candidate, check it against the last 14 days of selections: grep `drd-inbox-raw/history.json` and the `drd-inbox-raw/*_digest.md` files from the last 14 days for (a) the candidate's exact URL and (b) its core subject — distinctive named entities, report names, and headline figures (e.g. "REBNY", "21.2M SF", "10.4M SF").
+   - **REJECT** the candidate if the same URL was already featured, OR the same underlying story/dataset was already featured (same report, same announcement, same data release — even via a different outlet with a different headline). A genuine follow-up with materially NEW developments is allowed, but its summary must explicitly frame what is new versus the earlier coverage.
+   - Pick the next-best candidate from the pool instead. Only if a category's entire pool is duplicates may you substitute from another category (diversity constraint permitting).
+3. **Qualitative Criteria**:
    - Select articles of high technical depth, relevance, and genuine interest to a professional working in Real Estate Development, Engineering Consulting, and Construction.
    - Avoid generic press releases, clickbait, listicles, or high-level summaries. Focus on specific industry trends, technical advances, economic changes, and real-world projects.
    - Prioritize geographic developments matching New York City, New Jersey, Philadelphia, or Boston for the Real Estate Development category.
@@ -85,8 +93,8 @@ A single, high-impact sentence summarizing how this intelligence strengthens the
 
 ### STEP 6: VERIFY WORK
 1. Ensure the new digest file `drd-inbox-raw/YYYY-MM-DD_digest.md` exists and contains your generated summaries.
-2. Ensure `drd-inbox-raw/index.md` has been updated with today's new entry at the top of the archive.
-3. Ensure `drd-inbox-raw/history.json` has today's date and the selected articles logged.
+2. Ensure `drd-inbox-raw/index.md` has been updated with today's new entry at the top of the archive AND still contains the entries for all previous days (the archive must only grow, never shrink).
+3. Ensure `drd-inbox-raw/history.json` has today's date and the selected articles logged, alongside all prior days' entries.
 
 ---
 
@@ -98,11 +106,11 @@ A single, high-impact sentence summarizing how this intelligence strengthens the
 3. Commit the changes:
    - Run: `git commit -m "Compile Daily Industry Intelligence Digest for $(date +%F)"` (or use Python to get a cross-platform date: `python -c "import datetime; print(datetime.date.today().strftime('%Y-%m-%d'))"`).
 4. Push the branch to the remote:
-   - Run: `git push origin claude/daily-digest --force` (or standard push if preferred).
-5. (Optional) Check if GitHub CLI is installed and configured to open a Pull Request:
-   - Try running: `gh pr create --title "Daily Digest - $(date +%F)" --body "Automated daily news intelligence digest compilation."`
-   - If `gh` is unavailable or fails, ignore this sub-step and proceed.
+   - Run: `git push origin claude/daily-digest`
+   - **NEVER use `--force`** — the archive on the remote must never be overwritten.
+   - If the push is rejected (non-fast-forward), run `git pull --rebase origin claude/daily-digest` and push again.
+   - If the push still fails, STOP and report the error in your summary. Do NOT push today's work to any other branch name — the downstream consumer only reads `claude/daily-digest`.
 
 When you are finished, output a summary explaining:
 - Which 3 articles were selected and why.
-- Confirming that the files have been compiled, committed, and pushed successfully to the repository.
+- Confirming that the files have been compiled, committed, and pushed successfully to `claude/daily-digest` (or the exact error if any step was aborted).
